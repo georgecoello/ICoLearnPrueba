@@ -47,6 +47,19 @@ h6 {
   display: table;
 }
 
+.languages {
+  display: flex;
+  gap: .5rem;
+}
+
+.lang-button{
+    background-color: transparent;
+    font-size: 1.25rem;
+    border: 0;
+    cursor: pointer;
+    padding-left: 3vw;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
