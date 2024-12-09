@@ -1,0 +1,28 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "text-i": "Foundation Year:1906: The Poltecnico di Torino was officially formed in 1906, though its roots go back further. It evolved from the earlier Technical School for Engineers (founded in 1859).Student Number: Approximately 35,000 students Subject Areas: Engineering: Aerospace, Automotive, Biomedical, Chemical, Civil, Computer, Electrical, Electronic, Energy, Environmental, Management, Mechanical, Mechatronic, Nuclear, Physical, Telecommunications Architecture Design Territorial Planning Faculties (Departments): Department of Architecture and Design (DAD) Department of Energy (DENERG) Department of Electronics and Telecommunications(DET) Department of Environment, Land and Infrastructure Engineering (DIATI) Department of Applied Science and Technology (DISAT) Department of Management and Production Engineering (DIGEP) Department of Mechanical and Aerospace Engineering (DIMEAS) Interdepartmental Department of Regional and Urban Studies and Planning (DIST) Number of University Campuses: The main campuses within Turin are: Main Campus (Cittadella Politecnica): The historic heart of the university. Lingotto: Another significant campus. Cittadella del Design Castello del Valentino: A beautiful, historic castle that also serves as a campus and is listed as a UNESCO World Heritage Site."
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "members": {
+    "area": "Area of expertise", 
+    "faculty": "Faculty"
+   },
+   
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

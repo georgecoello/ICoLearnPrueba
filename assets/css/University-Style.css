@@ -15,6 +15,24 @@
   font-weight: 600;
 }
 
+/* Botones de idioma */
+
+.languages {
+  display: flex;
+  gap: .5rem;
+  float:right;
+  margin-right: 4vw;
+}
+
+.lang-button{
+    background-color: transparent;
+    font-size: 1.25rem;
+    border: 0;
+    cursor: pointer;
+    padding-left: 3vw;
+}
+
+
 /*.accordion-item .accordion-body{
 
 }*/  
