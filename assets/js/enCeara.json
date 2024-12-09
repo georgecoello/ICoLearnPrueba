@@ -1,0 +1,51 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "text-i": "Foundation year: 1954 Student number: 33.500 Subject áreas: Exact and Earth Sciences Biological Sciences Engineering Health Sciences Agricultural Sciences Linguistics, Letters and Arts Applied Social Sciences Human Sciences Faculties name: College of Sciences College of Humanities College of Technology College of Agricultural Sciences College of Medicine College of Pharmacy Dentistry and Nursing College of Law College of Education College of Economics College of Marine Sciences College of Culture and Arts College of  Physical Education and Sports College of  Distance Education Number of university campus: 8"
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "relevant": {
+    "title": "OTHER RELEVANT INFORMATION", 
+    "info": "Year: 2018 296 research groups, 284 CNPq Productivity Scholarship Holders, 1082 extension activities, 11613 internships."
+   }, 
+   "members": {
+    "title": "MEMBERS",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": " Construction Management ",
+    "modal1-f": " Technology Center ",
+    "modal2-i": " Energy Efficiency, Energy Market, Power Electronics with Renewable Sources of Energy Applications ", 
+    "modal2-f": " Technology Center ", 
+    "modal3-i": " Energy and exergetic analysis of thermal systems ", 
+    "modal3-f": "Technology Center", 
+    "modal4-i": " Transport Engineering; Environmental Impacts and Transports; Logístic ",
+    "modal4-f": "Technology Center", 
+    "modal5-i": " Design methods; Digital Design; Building Information Modeling; Performance-based Design ",
+    "modal5-f": "Technology Center", 
+    "modal6-i": " Decision-making making, Social Life Cycle Assessment ", 
+    "modal6-f": "Technology Center", 
+    "modal7-i": " Data science applied to digital agriculture/beekeeping, digital transformation, and health ", 
+    "modal7-f": "Technology Center", 
+    "modal8-i": " Engineering Education (Calculus teaching), Structural stability, Pavement mechanics ",
+    "modal8-f": "Technology Center", 
+    "modal9-i": " Dynamical systems modeling and analysis; Control and optimisation of dynamical systems; Statistical modeling ", 
+    "modal9-f": "Technology Center"
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

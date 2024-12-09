@@ -1,0 +1,52 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "text-i": "Public university with administrative and financial autonomy.It was founded in Aug 26th, 1940.Position 19th in best universities en Latin America.Renowned as a social mobility factor in CR’s societyThe main campus is located in center of San José, Costa Rica.It has 12 locations, spread out along the CR territoryStudent population 43.000Yearly admission 9.500, Yearly graduations 6.50013 Faculties, 48 Schools, 538 Academic options"
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "relevant": {
+    "title": "OTHER RELEVANT INFORMATION",
+    "info": " The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called “Sedes” and the smaller ones are called “Recintos”. San José San Ramón Grecia Liberia Santa Cruz Puntarenas Limón Guápiles Turrialba Golfito Alajuela Paraíso "
+   },
+   "members": {
+    "title": "MEMBERS",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": " Project and Construction Management, Public Policy", 
+    "modal1-f": " Civil Engineering School ", 
+    "modal2-i": " Project and Construction Management, Public Policy", 
+    "modal2-f": " Civil Engineering School ", 
+    "modal3-i": " Structural Engineering ",
+    "modal3-f": " Civil Engineering School ",
+    "modal4-i": " Project and Construction Management ", 
+    "modal4-f": "Civil Engineering School", 
+    "modal5-i": " Hydraulics and Hydrology ", 
+    "modal5-f": "Civil Engineering School", 
+    "modal6-i": " Transport Planning ",
+    "modal6-f": " Civil Engineering School", 
+    "modal7-i": " Environmental Engineering ", 
+    "modal7-f": "Civil Engineering School", 
+    "modal8-i": " Geotechnical Engineering ", 
+    "modal8-f": " Civil Engineering School ", 
+    "modal9-i": " Civil Engineering ", 
+    "modal9-f": " Civil Engineering School"
+
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

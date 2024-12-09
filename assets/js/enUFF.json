@@ -1,0 +1,46 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "text-i": "Foundation year: Established in 1960 as a federal university by merging several higher education institutions in Niterói and nearby areas. Location: The main campus is in Niterói, with academic units in other cities across the state of Rio de Janeiro, such as Volta Redonda, Campos dos Goytacazes, and Nova Friburgo. Ranking: It is one of Brazil's leading public universities, recognized for its academic excellence and research projects. Academic Areas Exact and Natural Sciences Humanities Engineering Social and Economic Sciences Health Sciences"
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "members": {
+    "title": "MEMBERS",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": " Engeneering and Transportation Engeneering", 
+    "modal1-f": " Civil Engeneering", 
+    "modal2-i": " Product Engineering, Product Development and Quality Management. Currently my area of research interest is techniques used in prototyping laboratories, where I practice additive printing, product design, laser cutting, among other techniques. I have worked on projects in the areas of assistive technology and products aimed at family agricultural producers.", 
+    "modal2-f": " School of Engineering, Department of Production Engineering Universidade Federal Fluminense", 
+    "modal3-i": " Quality management, Project Management, Supply chain management.", 
+    "modal3-f": " School of Engineering, Department of Production Engineering Universidade Federal Fluminense.", 
+    "modal4-i": " Intangible Asset; ESG ( Enviromental, Social and Governance); Product Life Cycle Assessment ", 
+    "modal4-f": " Department of Actuarial Sciences and Finance, Fluminense Federal University. ", 
+    "modal5-i": " Ergonomics, Human Factors, Health and Safety at Work, Anthropometrics ",
+    "modal5-f": " Fluminense Federal University, School of Engineering, Production Engineering Department.", 
+    "modal6-i": " Modeling for Occupational Safety Management/ Civil Construction Management ", 
+    "modal6-f": " School of Engineering, Department of Agricultural Engineering and Environment - Universidade Federal Fluminense ",
+    "modal7-i": " Agricultural waste treatment and utilization; Agroecology and Permaculture ", 
+    "modal7-f": " School of Engineering, Department of Agricultural Engineering and Environment - Universidade Federal Fluminense ", 
+    "modal8-i": " Strategy, Quality Management, Project Management, Operation Management ", 
+    "modal8-f": " Production Engineering Department - School of Engineering "
+
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}

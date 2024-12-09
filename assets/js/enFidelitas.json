@@ -1,0 +1,55 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "ABOUT ICoLearn", 
+        "results": "Results",
+        "news": "News",
+        "contact": "Contact us"
+    },
+    "name": {
+        "text": "ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224"
+    }, 
+   "accordion": {
+    "information": "GENERAL INFORMATION", 
+    "text-i": "Foundation year: 1980 Subjectc Areas:Ingenierías y ArquitecturaCiencias de la ComputaciónCiencias SocialesCiencias EconómicasCiencias de la Educación Faculties name:Facultad de Ingenierías y ArquitecturaFacultad de Ciencias de la ComputaciónFacultad de Ciencias SocialesFacultad de Ciencias EconómicasFacultad de Ciencias de la Educación Number of University Campus: Sede Central (San Pedro), Sede Heredia "
+   },
+   "visit": {
+    "title": "VISIT US!"
+   }, 
+   "relevant": {
+    "title": "OTHER RELEVANT INFORMATION",
+    "info": "At Fidélitas we train a comprehensive professional and therefore we promote the development of essential skills, which are a set of capabilities and competencies that allow people to successfully face the challenges and demands of personal, academic and professional life. Essential skills are applicable in diverse contexts and situations, they play a key role in personal development and continuous learning. Below, we explain them to you: Research: You will learn to increase your knowledge by collecting, organizing and analyzing information. Assertive communication: You will communicate better, since you will be able to make your opinion known without violating the rights of your colleagues. Development of creative thinking: You will solve problems within the context of your learning in an original, flexible and fluid way. Creative problem solving: You will use logic to find a solution that meets the objectives you set. You will even have the ability to supervise and evaluate the implementation of that creative solution. Work under pressure: You will maintain your efficient and effective pace while performing tasks or activities. Teamwork: You will work with your colleagues on a common purpose and goal. Data-based decision making: You will learn to obtain and interpret data, metrics and real facts to make decisions and find a solution to problems. Use of technological tools: It is the ability to evaluate, create and communicate information safely and ethically using computer technologies such as mobile devices, computers and software. The previous is achieved Learning by doing This is how the STEM+E Methodology is summarized by Learning by doing”. This is how the STEM+E Methodology is summarized, under which all Fidélitas University courses are taught and we can tell you that it will be anything but boring, as it is an active and dynamic teaching methodology that will challenge you to push your ingenuity to limits that you never imagined. You will be able to boost your skills to increase your ability to work as a team and in the context of a constructivist approach; makes you transform something that already exists into something new and innovative. "
+   },
+   "members": {
+    "title": "MEMBERS",
+    "button": "See more information",
+    "area": "Area of expertise", 
+    "faculty": "Faculty", 
+    "modal1-i": " Software Engineering and Databases. ", 
+    "modal1-f": "Computer Science", 
+    "modal2-i": " Materials Processing And mechanical design ", 
+    "modal2-f": " Electrical engineering and related ", 
+    "modal3-i": " Chemistry of materials, pavement materials, sustainability ", 
+    "modal3-f": " Civil Engineering ", 
+    "modal4-i": " Concrete Technology ", 
+    "modal4-f": "Civil Engineering",
+    "modal5-i": " Management skills, process management, standardization ", 
+    "modal5-f": " Industrial Engineering ", 
+    "modal6-i": " Geotechnical Engineering ",
+    "modal6-f": " Civil Engineering ", 
+    "modal7-i": " Academic Quality/New Technologies and Digital skills ", 
+    "modal7-f": " Academic Quality Department. ", 
+    "modal8-i": " Transportation Engineering, Material Science, Pavements ", 
+    "modal8-f": "Civil Engineering", 
+    "modal9-i": "Physics ", 
+    "modal9-f": " Basic Sciences ", 
+    "modal10-i": " Industrial engineering / Math ", 
+    "modal10-f": " Industrial Engineering ", 
+    "modal11-i": " Computer systems ", 
+    "modal11-f": " Computer Systems Engineering "
+   }, 
+    "footer": {
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+    }
+}
