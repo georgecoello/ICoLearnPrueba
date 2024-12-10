@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
         "results": "Results",
         "news": "News",
         "contact": "Contact us"
@@ -19,9 +20,10 @@
    }, 
    "members": {
     "title": "MEMBERS",
+    "team": "UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS' TEAM",
     "button": "See more information",
     "area": "Area of expertise", 
-    "moreInfo": "Other relevant academic information about you", 
+    "faculty": "Other relevant academic information about you", 
     "coord": "COORDINATOR",
     "subcoor": "SUBCOORDINATOR",
     "modal1-i": " Rainfall-induced landslides, slope stability, hazard and risk analysis ", 

@@ -37,13 +37,13 @@
 <header id="header" class="fixed-top">
   <div class="container d-flex align-items-center justify-content-between">
 
-    <h1><a href="index.html" style="color: inherit; text-decoration: none;">ICoLearn</a></h1>
+    <h1><a href="index.html" style="color: inherit; text-decoration: none;" data-section="nav" data-value="title">ICoLearn</a></h1>
 
     <nav id="navbar" class="navbar">
       <ul>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#counts">Home</a></li>
-        <li><a style="text-transform: none; font-size: 20px;" class="nav-link scrollto" href="index.html#about-p">ABOUT ICoLearn</a></li>
-        <li class="nav-link dropdown"><a class="active" style="font-size: 20px; text-decoration: none" href="index.html#partners"><span>Partners</span> <i class="bi bi-chevron-down"></i></a>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#counts" data-section="nav" data-value="home">Home</a></li>
+        <li><a style="text-transform: none; font-size: 20px;" class="nav-link scrollto" href="index.html#about-p" data-section="nav" data-value="about">ABOUT ICoLearn</a></li>
+        <li class="nav-link dropdown"><a class="active" style="font-size: 20px; text-decoration: none" href="index.html#partners"><span data-section="nav" data-value="partners">Partners</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
             <li><a href="do-minho.html">Universidade do Minho</a></li>
             <li><a href="di-torino.html">Politecnico di Torino</a></li>
@@ -55,17 +55,17 @@
             <li><a href="unah.html">Universidad Nacional Autónoma de Honduras</a></li>
           </ul>
         </li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#results">Results</a></li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#news-p">News</a></li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#contact">Contact us</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#results" data-section="nav" data-value="results">Results</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#news-p" data-section="nav" data-value="news">News</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#contact" data-section="nav" data-value="contact">Contact us</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav><!-- .navbar -->
 
   </div>
 
-  <div class="row" style="text-align: center;">
-    <h5>ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224</b></h5>
+  <div class="row" style="text-align: center; margin-left: 5vw; margin-right: 5vw;">
+    <h5 data-section="name" data-value="text"></h5>ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224</b></h5>
   </div>
 
   <div class="languages">
@@ -107,12 +107,12 @@
   <div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingOne">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne" data-section="accordion" data-value="information">
           GENERAL INFORMATION
         </button>
       </h2>
       <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body">
+        <div class="accordion-body" data-section="accordion" data-value="text-i">
           
           <ul>
             <li>Foundation year: 1954 </li>
@@ -154,7 +154,7 @@
     </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingTwo">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo" data-section="visit" data-value="title">
           VISIT US!
         </button>
       </h2>
@@ -166,12 +166,12 @@
     </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingThree">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree" data-section="relevant" data-value="title">
           OTHER RELEVANT INFORMATION
         </button>
       </h2>
       <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body">
+        <div class="accordion-body" data-section="relevant" data-value="info">
           <h4>Year: 2018</h4>
           <p>296 research groups, 284 CNPq Productivity Scholarship Holders, 1082 extension activities, 11613 internships.</p>
         </div>
@@ -179,7 +179,7 @@
     </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingFour">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour" data-section="members" data-value="members">
           MEMBERS
         </button>
       </h2>
@@ -190,7 +190,7 @@
   <div class="container">
 
     <div class="section-title2">
-      <h3>UNIVERSIDADE FEDERAL DO CEARÁ'S TEAM</h3>
+      <h3 data-section="members" data-value="team">UNIVERSIDADE FEDERAL DO CEARÁ'S TEAM</h3>
     </div>
     <br><br>
 
@@ -207,9 +207,9 @@
           </div>
           <div class="member-info" style="text-align: center;">
             <h4>José de Paula Barros Neto</h4>
-            <h5>COORDINATOR</h5>
+            <h5 data-section="members" data-value="coord">COORDINATOR</h5>
             <!-- Button trigger modal -->
-          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" style="font-size: 12px;">
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" style="font-size: 12px;" data-section="memmbers" data-value="button" >
             See more information
           </button>
   
@@ -221,11 +221,11 @@
                   <h5 class="modal-title" id="exampleModalLabel1">José de Paula Barros Neto | UFC</h5>
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body" style="text-align: justify">
+                <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal1-i" data-value="modal1-f">
                   Email: jpbarros@ufc.br 
-                  <h5 style="text-align: center;">Area of Expertise</h5>
+                  <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                   Construction Management <br>
-                  <h5 style="text-align: center;">Faculty</h5>
+                  <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                   Technology Center
                 </div>
                 <div class="modal-footer">
@@ -252,7 +252,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Raphael Amaral da Câmara</h4>
            <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -264,11 +264,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Raphael Amaral da Câmara | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal2-i" data-value="modal2-f">
                 Email: raphael@dee.ufc.br 
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Energy Efficiency, Energy Market, Power Electronics with Renewable Sources of Energy Applications <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -281,7 +281,7 @@
 
           </div>
         </div>
-      </div>
+      </div> 
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
@@ -294,7 +294,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Carlos Almir Monteiro de Holanda</h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -306,11 +306,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Carlos Almir Monteiro de Holanda | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-sectio="members" data-value="madal3-i" data-value="modal3-f">
                 Email: almir@ufc.br 
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Energy and exergetic analysis of thermal systems <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -336,7 +336,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Bruno Vieira Bertoncini </h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal3" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal3" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -348,11 +348,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Bruno Vieira Bertoncini | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal4-i" data-value="modal4-f">
                 Email: bruviber@det.ufc.br  
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Transport Engineering; Environmental Impacts and Transports; Logístic <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -379,7 +379,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Mariana Monteiro Xavier de Lima</h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal4" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal4" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -391,11 +391,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Mariana Monteiro Xavier de Lima | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal5-i" data-value="modal5-f">
                 Email: mariana@daud.ufc.br 
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Design methods; Digital Design; Building Information Modeling; Performance-based Design <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -421,7 +421,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Breno Barros Telles do Carmo</h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal5" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal5" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -433,11 +433,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Breno Barros Telles do Carmo | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal6-i" data-value="modal6-f">
                 Email: brenobarros@ufc.br 
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Decision-making making, Social Life Cycle Assessment <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -464,7 +464,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Danielo Gonçalves Gomes </h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal6" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal6" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -476,11 +476,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Danielo Gonçalves Gomes | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal7-i" data-value="modal7-f">
                 Email: danielo@ufc.br   
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Data science applied to digital agriculture/beekeeping, digital transformation, and health <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-section="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -506,7 +506,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Aurea Silva de Holanda</h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal7" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal7" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -518,11 +518,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Aurea Silva de Holanda | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal8-i" data-value="modal8-f">
                 Email: aurea@det.ufc.br   
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Engineering Education (Calculus teaching), Structural stability, Pavement mechanics <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -549,7 +549,7 @@
           <div class="member-info" style="text-align: center;">
             <h4>Michela Mulas</h4>
             <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal8" style="font-size: 12px;">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal8" style="font-size: 12px;" data-section="members" data-value="button">
           See more information
         </button>
 
@@ -561,11 +561,11 @@
                 <h5 class="modal-title" id="exampleModalLabel1">Michela Mulas | UFC</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               </div>
-              <div class="modal-body" style="text-align: justify">
+              <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal9-i" data-valu="modal9-f">
                 Email: michela.mulas@ufc.br  
-                <h5 style="text-align: center;">Area of Expertise</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                 Dynamical systems modeling and analysis; Control and optimisation of dynamical systems; Statistical modeling <br>
-                <h5 style="text-align: center;">Faculty</h5>
+                <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                 Technology Center
               </div>
               <div class="modal-footer">
@@ -607,7 +607,7 @@
         <img class="footerImg" src="./assets/img/LogosFooter/8.png" alt="Image 8">
         <img class="footerImg" src="./assets/img/LogosFooter/9.png" alt="Image 9">
     </div>
-    <p class="footer-text">Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
+    <p class="footer-text" data-section="footer" data-value="disclaimer">Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
   </div>
 </footer>
 <!-- End Footer -->

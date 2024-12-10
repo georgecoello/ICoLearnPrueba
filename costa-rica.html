@@ -31,13 +31,13 @@
 <header id="header" class="fixed-top">
   <div class="container d-flex align-items-center justify-content-between">
 
-    <h1><a href="index.html" style="color: inherit; text-decoration: none;">ICoLearn</a></h1>
+    <h1><a href="index.html" style="color: inherit; text-decoration: none;" data-section="nav" data-value="title">ICoLearn</a></h1>
 
     <nav id="navbar" class="navbar">
       <ul>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#counts">Home</a></li>
-        <li><a style="text-transform: none; font-size: 20px;" class="nav-link scrollto" href="index.html#about-p">ABOUT ICoLearn</a></li>
-        <li class="nav-link dropdown"><a class="active" style="font-size: 20px; text-decoration: none" href="index.html#partners"><span>Partners</span> <i class="bi bi-chevron-down"></i></a>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#counts" data-section="nav" data-value="home">Home</a></li>
+        <li><a style="text-transform: none; font-size: 20px;" class="nav-link scrollto" href="index.html#about-p" data-section="nav" data-value="about">ABOUT ICoLearn</a></li>
+        <li class="nav-link dropdown"><a class="active" style="font-size: 20px; text-decoration: none" href="index.html#partners"  data-section="nav" data-value="partners"><span>Partners</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
             <li><a href="do-minho.html">Universidade do Minho</a></li>
             <li><a href="di-torino.html">Politecnico di Torino</a></li>
@@ -49,17 +49,17 @@
             <li><a href="unah.html">Universidad Nacional Autónoma de Honduras</a></li>
           </ul>
         </li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#results">Results</a></li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#news-p">News</a></li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#contact">Contact us</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#results" data-section="nav" data-value="results">Results</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#news-p" data-section="nav" data-value="news">News</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#contact" data-section="nav" data-value="contact">Contact us</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav><!-- .navbar -->
 
   </div>
 
-  <div class="row" style="text-align: center;">
-    <h5>ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224</b></h5>
+  <div class="row" style="text-align: center; margin-left: 5vw; margin-right: 5vw;">
+    <h5 data-section="name" data-value="text"></h5>ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224</b></h5>
   </div>
 
   <div class="languages">
@@ -101,12 +101,12 @@
   <div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingOne">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne" data-section="accordion" data-value="information">
           GENERAL INFORMATION
         </button>
       </h2>
       <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body">
+        <div class="accordion-body" data-section="accordion" data-value="text-i">
           
           <ul>
             <li>Public university with administrative and financial autonomy. </li>
@@ -124,7 +124,7 @@
     </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingTwo">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo" data-section="visit" data-value="title">
           VISIT US!
         </button>
       </h2>
@@ -136,12 +136,12 @@
     </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingThree">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree" data-section="relevant" data-value="title">
           OTHER RELEVANT INFORMATION
         </button>
       </h2>
       <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-        <div class="accordion-body">
+        <div class="accordion-body" data-section="relevant" data-value="info">
           <p>
             The main campus is located in center of San José, Costa Rica. It has 12 locations, spread out along the CR territory. The larger ones are called “Sedes” and the smaller ones are called “Recintos”.
             <ul style="margin-left: 25px;">
@@ -164,7 +164,7 @@
     </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingFour">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour" data-section="members" data-value="title">
           MEMBERS
         </button>
       </h2>
@@ -183,9 +183,9 @@
                     </div>
                     <div class="member-info" style="text-align: center;">
                       <h4>Erick Mata Abdelnour, Ph.D | UCR</h4>
-                      <h5>COORDINATOR</h5>
+                      <h5 data-section="members" data-value="coord">COORDINATOR</h5>
                        <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -197,11 +197,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Erick Mata Abdelnour, Ph.D | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal1-i" data-value="modal1-f">
                             Email: eric.mata@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Project and Construction Management, Public Policy<br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -223,7 +223,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Sergio Aaron Lobo Aguilar, Ph.D.</h4>
                        <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -235,11 +235,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Sergio Aaron Lobo Aguilar, Ph.D. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal2-i" data-value="modal2-f">
                             Email: sergio.lobo@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Structural Engineering <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -261,7 +261,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Maria José Rodriguez Roblero, Ph.D.</h4>
                       <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal2" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -273,11 +273,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Maria José Rodriguez Roblero, Ph.D. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal3-i" datal-value="modal3-f">
                             Email: maria.rodriguezroblero@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Structural Engineering <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -300,7 +300,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Einer Rodriguez Rojas, M.Sc.</h4>
                        <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal3" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal3" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -312,11 +312,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Einer Rodriguez Rojas, M.Sc. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal4-i" data-value="modal4-f">
                             Email: einer.rodriguez@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Project and Construction Management <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -339,7 +339,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Roberto Villalobos Herrera, Ph.D.</h4>
                       <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal4" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal4" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -351,11 +351,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Roberto Villalobos Herrera, Ph.D. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal5-i" data-value="modal5-f">
                             Email: roberto.villalobosherrera@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Hydraulics and Hydrology <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -378,7 +378,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Henry Hernández Vega, M.Sc.</h4>
                        <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal5" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal5" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -390,11 +390,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Henry Hernández Vega, M.Sc. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal6-i" data-value="modal6-f">
                             Email: henry.hernandezvega@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Transport Planning <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -417,7 +417,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Nidia Cruz Zúñiga, M.Sc.</h4>
                       <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal6" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal6" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -429,11 +429,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Nidia Cruz Zúñiga, M.Sc. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal7-i" data-value="modal7-f">
                             Email: nidia.cruz@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Environmental Engineering <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty"></h5>Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -456,7 +456,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Regina Salas Monge, M.Sc.</h4>
                       <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal7" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal7" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -468,11 +468,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Regina Salas Monge, M.Sc. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal8-i" data-value="modal8-f">
                             Email: regina.salas@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Geotechnical Engineering <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -495,7 +495,7 @@
                     <div class="member-info" style="text-align: center;">
                       <h4>Octavio Zúñiga Cubillo, M.Sc.</h4>
                       <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal8" style="font-size: 12px;">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal8" style="font-size: 12px;" data-section="members" data-value="button">
                       See more information
                     </button>
           
@@ -507,11 +507,11 @@
                             <h5 class="modal-title" id="exampleModalLabel1">Octavio Zúñiga Cubillo, M.Sc. | UCR</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                           </div>
-                          <div class="modal-body" style="text-align: justify">
+                          <div class="modal-body" style="text-align: justify" data-section="members" data-value="modal9-i" data-value="modal9-f">
                             Email: octavio.zuniga@ucr.ac.cr
-                            <h5 style="text-align: center;">Area of Expertise</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="area">Area of Expertise</h5>
                             Civil Engineering <br>
-                            <h5 style="text-align: center;">Faculty</h5>
+                            <h5 style="text-align: center;" data-section="members" data-value="faculty">Faculty</h5>
                             Civil Engineering School
                           </div>
                           <div class="modal-footer">
@@ -552,7 +552,7 @@
         <img class="footerImg" src="./assets/img/LogosFooter/8.png" alt="Image 8">
         <img class="footerImg" src="./assets/img/LogosFooter/9.png" alt="Image 9">
     </div>
-    <p class="footer-text">Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
+    <p class="footer-text" data-section="footer" data-value="disclaimer">Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
   </div>
 </footer>
 <!-- End Footer -->

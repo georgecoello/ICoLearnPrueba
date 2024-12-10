@@ -4,6 +4,7 @@
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
         "results": "Results",
+        "partners": "Partners",
         "news": "News",
         "contact": "Contact us"
     },
@@ -23,9 +24,11 @@
    }, 
    "members": {
     "title": "MEMBERS",
+    "team": "UNIVERSIDADE FEDERAL DO CEARÁ'S TEAM",
     "button": "See more information",
     "area": "Area of expertise", 
     "faculty": "Faculty", 
+    "coord": "COORDINATOR",
     "modal1-i": " Construction Management ",
     "modal1-f": " Technology Center ",
     "modal2-i": " Energy Efficiency, Energy Market, Power Electronics with Renewable Sources of Energy Applications ", 

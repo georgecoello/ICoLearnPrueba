@@ -2,7 +2,8 @@
     "nav": {
         "title": "ICoLearn", 
         "home": "Home", 
-        "about": "ABOUT ICoLearn", 
+        "about": "ABOUT ICoLearn",
+        "partners": "Partners", 
         "results": "Results",
         "news": "News",
         "contact": "Contact us"

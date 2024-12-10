@@ -35,13 +35,13 @@
 <header id="header" class="fixed-top">
   <div class="container d-flex align-items-center justify-content-between">
 
-    <h1><a href="index.html" style="color: inherit; text-decoration: none;">ICoLearn</a></h1>
+    <h1><a href="index.html" style="color: inherit; text-decoration: none;" data-section="nav" data-value="title" >ICoLearn</a></h1>
 
     <nav id="navbar" class="navbar">
       <ul>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#counts">Home</a></li>
-        <li><a style="text-transform: none; font-size: 20px;" class="nav-link scrollto" href="index.html#about-p">ABOUT ICoLearn</a></li>
-        <li class="nav-link dropdown"><a style="font-size: 20px; text-decoration: none" href="index.html#partners" class="active"><span>Partners</span> <i class="bi bi-chevron-down"></i></a>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#counts" data-section="nav" data-value="home">Home</a></li>
+        <li><a style="text-transform: none; font-size: 20px;" class="nav-link scrollto" href="index.html#about-p" data-section="nav" data-value="about">ABOUT ICoLearn</a></li>
+        <li class="nav-link dropdown"><a style="font-size: 20px; text-decoration: none" href="index.html#partners" class="active" data-section="nav" data-value="partners"><span>Partners</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
             <li><a href="do-minho.html">Universidade do Minho</a></li>
             <li><a href="di-torino.html">Politecnico di Torino</a></li>
@@ -53,17 +53,17 @@
             <li><a class="active" href="unah.html">Universidad Nacional Autónoma de Honduras</a></li>
           </ul>
         </li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#results">Results</a></li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#news-p">News</a></li>
-        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#contact">Contact us</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#results" data-section="nav" data-value="results">Results</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#news-p" data-section="nav" data-value="news">News</a></li>
+        <li><a style="font-size: 20px;" class="nav-link scrollto" href="index.html#contact" data-section="nav" data-value="contact">Contact us</a></li>
       </ul>
       <i class="bi bi-list mobile-nav-toggle"></i>
     </nav><!-- .navbar -->
 
   </div>
 
-  <div class="row" style="text-align: center;">
-    <h5>ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224</b></h5>
+  <div class="row" style="text-align: center; margin-left: 5vw; margin-right: 5vw;">
+    <h5 data-section="name" data-value="text"></h5>ICoLearn - Internet and collaborative based learning methodologies toolbox for digital transformation and sustainable growth |<b> Project No.: 101127224</b></h5>
   </div>
   <div class="languages">
     <button class="lang-button" data-language="en">🇬🇧</button>
@@ -106,13 +106,13 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="flush-headingOne">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+            data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne" data-section="accordion" data-value="information">
             GENERAL INFORMATION
           </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
           data-bs-parent="#accordionFlushExample">
-          <div class="accordion-body">
+          <div class="accordion-body" data-section="accordion" data-value="text-i">
 
             <ul>
               <li>Founded in 1847</li>
@@ -130,7 +130,7 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="flush-headingTwo">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+            data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo" data-section="visit" data-value="title">
             VISIT US!
           </button>
         </h2>
@@ -146,7 +146,7 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="flush-headingFour">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-            data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+            data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour" data-section="members" data-value="title">
             MEMBERS
           </button>
         </h2>
@@ -158,7 +158,7 @@
               <div class="container">
 
                 <div class="section-title2">
-                  <h3>UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS' TEAM</h3>
+                  <h3 data-section="members" data-value="team">UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS' TEAM</h3>
                 </div>
                 <br><br>
             
@@ -175,9 +175,9 @@
                       </div>
                       <div class="member-info" style="text-align: center;">
                         <h4>Elías Leonardo García Urquía</h4>
-                        <h5>COORDINATOR</h5>
+                        <h5 data-section="members" data-value="coord">COORDINATOR</h5>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -189,10 +189,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">Elías Leonardo García Urquía | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal1-i" data-value="modal1-f">
                                 Email: elias.garcia@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5> Rainfall-induced landslides, slope stability, hazard and risk analysis <br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> Civil Engineer (National Autonomous University of Honduras), PhD on Civil and Structural Engineering (Uppsala University), Certification on Geological and Climate Related Risk (University of Geneva), MSc on Geotechnics and Foundation Engineering (EADIC).  ORCID: https://orcid.org/0000-0003-4362-4510
+                                <h5 style="text-align: center;" data-section="members" data-value="area" >Area of expertise</h5> Rainfall-induced landslides, slope stability, hazard and risk analysis <br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> Civil Engineer (National Autonomous University of Honduras), PhD on Civil and Structural Engineering (Uppsala University), Certification on Geological and Climate Related Risk (University of Geneva), MSc on Geotechnics and Foundation Engineering (EADIC).  <a href="ORCID: https://orcid.org/0000-0003-4362-4510">ORCID: https://orcid.org/0000-0003-4362-4510</a>
               
                               </div>
                               <div class="modal-footer">
@@ -216,9 +216,9 @@
                       </div>
                       <div class="member-info" style="text-align: center;">
                         <h4>Laura Marcela Salgado Valladares</h4>
-                        <h5>SUBCOORDINATOR</h5>
+                        <h5 data-section="members" data-value="subcoor">SUBCOORDINATOR</h5>
                       <!-- Button trigger modal -->
-                      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop1" style="font-size: 12px;">
+                      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop1" style="font-size: 12px;" data-section="members" data-value="button">
                         See more information
                       </button>
                       
@@ -230,10 +230,10 @@
                               <h5 class="modal-title" id="staticBackdropLabel">Laura Marcela Salgado Valladares | UNAH</h5>
                               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
-                            <div class="modal-body" style="text-align: justify;">
+                            <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal2-i" data-value="modal2-f">
                               Email: laura.salgado@unah.edu.hn
-                              <h5 style="text-align: center;">Area of expertise</h5> Civil Engineering, Construction Materials, Pavements, Risk management, Environment, Project Management <br><br>
-                              <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                              <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5> Civil Engineering, Construction Materials, Pavements, Risk management, Environment, Project Management <br><br>
+                              <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                               I have a Master Degree in Climate Change and Territory Management and another in Project Management, Head of the Scientific Research Management Unit of Civil Engineering, Member of the Risk Management and Climate Change Adaptation Research Group, ACI Concrete Field Testing Technician – Grade I and ACI Aggregate Testing Technician - Level 1, Full Professor of the Engineering Faculty in Civil Engineering, Construction Materials, Pavements, Management Area. I have participated in International Cooperation projects.
                             </div>
                             <div class="modal-footer">
@@ -258,7 +258,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>Aminta Daniela Velásquez Moreno</h4>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop2" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop2" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -270,10 +270,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">Aminta Daniela Velásquez Moreno | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal3-i"data-value="modal3-f">
                                 Email: aminta.velasquez@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5> Geotechnical Engineering <br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                                <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5> Geotechnical Engineering <br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                                 Aminta Velasquez is an accomplished geotechnical engineer who earned her master's degree from the University of Florida. Prior to her graduate studies, she obtained her bachelor's degree from Universidad Nacional Autónoma de Honduras. Currently, she serves as a faculty professor in the Civil Engineering Department of Universidad Nacional Autónoma de Honduras.
                               </div>
                               <div class="modal-footer">
@@ -298,7 +298,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>David Alejandro Rodríguez Lacayo</h4>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop3" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop3" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -310,10 +310,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">David Alejandro Rodríguez Lacayo | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal4-i"data-value="modal4-f">
                                 Email: david.rodriguez@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5> Structural and Geotechnical Engineering<br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                                <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5> Structural and Geotechnical Engineering<br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                                 At this moment I'm working on a resarch about vulnerability index aplication in a landslide affected district. I'm also colaborating in 3 aditionals resarchs about differents topics.
                               </div>
                               <div class="modal-footer">
@@ -338,7 +338,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>Yolanda Lizeth Fletes Ramos</h4>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop4" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop4" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -350,10 +350,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">Yolanda Lizeth Fletes Ramos | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal5-i" data-value="modal5-f">
                                 Email: yolanda.ramos@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5> Water and sanitation, climate change <br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                                <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5> Water and sanitation, climate change <br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                                 Engineer master in road, channel and port
                               </div>
                               <div class="modal-footer">
@@ -378,7 +378,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>Luis Gerardo Aguirre Cálix</h4>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop5" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop5" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -390,10 +390,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">Luis Gerardo Aguirre Cálix | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal6-i" data-value="modal6-f">
                                 Email: laguirre@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5>Structural and seismic Engineering<br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                                <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5>Structural and seismic Engineering<br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                                 Luis Aguirre is a Civil Engineer  from UNAH with a Master's degree in Structural, Seismic and Geotechnical Engineering  From Universidad de Chile. Now he is the Academic Coordinator of the undergraduated degree of Civil engienering of the UNAH. His research interests is about structural and seismic enginering, vulnerability and risk management.
                               </div>
                               <div class="modal-footer">
@@ -418,7 +418,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>Junior Alexis Reyes Sánchez</h4>
                           <!-- Button trigger modal -->
-                          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop6" style="font-size: 12px;">
+                          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop6" style="font-size: 12px;" data-section="members" data-value="button">
                             See more information
                           </button>
                           
@@ -430,9 +430,9 @@
                                   <h5 class="modal-title" id="staticBackdropLabel">Junior Alexis Reyes Sánchez | UNAH</h5>
                                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
-                                <div class="modal-body" style="text-align: justify;">
+                                <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal7-i">
                                   Email: junior.reyes@unah.edu.hn
-                                  <h5 style="text-align: center;">Area of expertise</h5>Materials engineering, structural engineering<br><br>
+                                  <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5>Materials engineering, structural engineering<br><br>
                                   
                                 </div>
                                 <div class="modal-footer">
@@ -457,7 +457,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>Abner Said Rodríguez Lacayo</h4>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop7" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop7" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -469,10 +469,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">Abner Said Rodríguez Lacayo | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal8-i" data-value="modal8-f">
                                 Email: abner.rodriguez@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5>Water and Wastewater Engineering <br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                                <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5>Water and Wastewater Engineering <br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                                 Full professor 
                               </div>
                               <div class="modal-footer">
@@ -497,7 +497,7 @@
                       <div class="member-info" style="text-align: center;">
                         <h4>Fabricio Alejandro Ortiz Morales</h4>
                         <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop8" style="font-size: 12px;">
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop8" style="font-size: 12px;" data-section="members" data-value="button">
                           See more information
                         </button>
                         
@@ -509,10 +509,10 @@
                                 <h5 class="modal-title" id="staticBackdropLabel">Fabricio Alejandro Ortiz Morales | UNAH</h5>
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                               </div>
-                              <div class="modal-body" style="text-align: justify;">
+                              <div class="modal-body" style="text-align: justify;" data-section="members" data-value="modal9-i">
                                 Email: fabricio.ortiz@unah.edu.hn
-                                <h5 style="text-align: center;">Area of expertise</h5>Structural Engineering | Material Sciences | Sustainability<br><br>
-                                <h5 style="text-align: center;">Other relevant academic information about you</h5> 
+                                <h5 style="text-align: center;" data-section="members" data-value="area">Area of expertise</h5>Structural Engineering | Material Sciences | Sustainability<br><br>
+                                <h5 style="text-align: center;" data-section="members" data-value="faculty">Other relevant academic information about you</h5> 
                                 <a href="https://orcid.org/0009-0005-1228-4551">https://orcid.org/0009-0005-1228-4551</a>
                               </div>
                               <div class="modal-footer">
@@ -557,7 +557,7 @@
                 <img class="footerImg" src="./assets/img/LogosFooter/8.png" alt="Image 8">
                 <img class="footerImg" src="./assets/img/LogosFooter/9.png" alt="Image 9">
           </div>
-          <p class="footer-text">Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
+          <p class="footer-text" data-section="footer" data-value="disclaimer">Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.</p>
         </div>
       </footer>
       <!-- End Footer -->

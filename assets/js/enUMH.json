@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
         "results": "Results",
         "news": "News",
         "contact": "Contact us"
@@ -23,6 +24,8 @@
    }, 
    "members": {
     "title": "MEMBERS",
+    "team": "UNIVERSIDAD METROPOLITANA DE HONDURAS' TEAM",
+    "coord": "COORDINATOR",
     "button": "See more information",
     "area": "Area of expertise", 
     "faculty": "Faculty", 
@@ -35,11 +38,13 @@
     "modal4-i": " Business Management/Higher Education ", 
     "modal5-i": " Marketing/International Sustainable Development ", 
     "modal5-f": " Business Sciences ", 
-    "modal6-i": " Marketing/International Sustainable Development ", 
+    "modal6-i": " Business Management ", 
     "modal6-f": " Business Sciences ", 
     "modal7-i": " Higher Education with a focus on University Teaching and Curriculum Design ", 
     "modal7-f": " Social Sciences ", 
-    "modal8-i": " Construction/Risk Management/Higher Education ", 
+    "modal8-i": " Business Management/Higher Education ", 
+    "modal8-f": " Engineering / Business Sciences ",
+    "modal9-i": " Construction/Risk Management/Higher Education ", 
     "modal9-f": " Engineering "
    }, 
     "footer": {

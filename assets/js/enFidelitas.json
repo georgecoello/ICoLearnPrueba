@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
+        "partners": "Partners",
         "results": "Results",
         "news": "News",
         "contact": "Contact us"
@@ -23,6 +24,8 @@
    },
    "members": {
     "title": "MEMBERS",
+    "team": "FIDÉLITAS UNIVERSIDAD'S TEAM",
+    "coord": "COORDINATOR",
     "button": "See more information",
     "area": "Area of expertise", 
     "faculty": "Faculty", 

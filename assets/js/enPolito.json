@@ -4,6 +4,7 @@
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
         "results": "Results",
+        "partners": "Partners",
         "news": "News",
         "contact": "Contact us"
     },
@@ -19,9 +20,14 @@
    }, 
    "members": {
     "title": "MEMBERS",
+    "team": "POLITECNICO DI TORINHO'S TEAM",
     "button": "See more information",
     "area": "Area of expertise", 
-    "faculty": "Faculty"
+    "faculty": "Faculty", 
+    "modal1-i": "Manufacturing ", 
+    "modal1-f": " DIGEP ",
+    "modal2-i": " Manufacturing ",
+    "modal2-f": " DIGEP "
    },
    
     "footer": {

@@ -4,6 +4,7 @@
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
         "results": "Results",
+        "partners": "Partners",
         "news": "News",
         "contact": "Contact us"
     },
@@ -20,6 +21,8 @@
    "members": {
     "title": "MEMBERS",
     "button": "See more information",
+    "team": "UNIVERSIDADE FEDERAL FLUMINENSE'S TEAM",
+    "coord": "COORDINATOR",
     "area": "Area of expertise", 
     "faculty": "Faculty", 
     "modal1-i": " Engeneering and Transportation Engeneering", 

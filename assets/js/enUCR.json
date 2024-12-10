@@ -4,6 +4,7 @@
         "home": "Home", 
         "about": "ABOUT ICoLearn", 
         "results": "Results",
+        "partners": "Partners",
         "news": "News",
         "contact": "Contact us"
     },
@@ -12,7 +13,7 @@
     }, 
    "accordion": {
     "information": "GENERAL INFORMATION", 
-    "text-i": "Public university with administrative and financial autonomy.It was founded in Aug 26th, 1940.Position 19th in best universities en Latin America.Renowned as a social mobility factor in CR’s societyThe main campus is located in center of San José, Costa Rica.It has 12 locations, spread out along the CR territoryStudent population 43.000Yearly admission 9.500, Yearly graduations 6.50013 Faculties, 48 Schools, 538 Academic options"
+    "text-i": "Public university with administrative and financial autonomy.It was founded in Aug 26th, 1940.Position 19th in best universities en Latin America.Renowned as a social mobility factor in CR’s society The main campus is located in center of San José, Costa Rica.It has 12 locations, spread out along the CR territoryStudent population 43.000Yearly admission 9.500, Yearly graduations 6.50013 Faculties, 48 Schools, 538 Academic options"
    },
    "visit": {
     "title": "VISIT US!"
@@ -23,6 +24,7 @@
    },
    "members": {
     "title": "MEMBERS",
+    "coord": "COORDINATOR",
     "button": "See more information",
     "area": "Area of expertise", 
     "faculty": "Faculty", 
