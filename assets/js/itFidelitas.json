@@ -1,0 +1,56 @@
+{
+    "nav": {
+           
+       "title": "ICoLearn", 
+       "home": "Home", 
+       "about": "CHI SIAMO ICoLearn",     
+       "results": "Risultati",
+       "news": "Novità",
+       "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumenti per metodologie di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto n°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAZIONI GENERALI", 
+    "text-i": "Anno di fondazione: 1980 Aree tematiche: Ingegneria e Architettura, Informatica, Scienze Sociali, Economia, Scienze dell'Educazione Nomi delle facoltà: Facoltà di Ingegneria e Architettura, Facoltà di Informatica, Facoltà di Scienze Sociali, Facoltà di Economia, Facoltà di Scienze dell'Educazione Numero di campus universitari: Sede centrale (San Pedro), Sede di Heredia"
+   },
+    "visit": {
+    "title": "VISITACI!"
+   }, 
+   "relevant": {
+    "title": "ALTRE INFORMAZIONI RILEVANTI",
+    "info": "A Fidélitas formiamo un professionista completo e per questo promuoviamo lo sviluppo delle competenze essenziali, un insieme di capacità che permettono alle persone di affrontare con successo le sfide e le esigenze della vita personale, accademica e professionale. Le competenze essenziali sono applicabili in vari contesti e situazioni e svolgono un ruolo chiave nello sviluppo personale e nell'apprendimento continuo. Ecco cosa imparerai: Ricerca: Imparerai ad aumentare le tue conoscenze raccogliendo, organizzando e analizzando informazioni. Comunicazione assertiva: Comunicherai meglio, in quanto potrai esprimere la tua opinione senza violare i diritti dei tuoi compagni. Sviluppo del pensiero creativo: Risolverai problemi nel contesto del tuo apprendimento in modo originale, flessibile e fluido. Risoluzione creativa dei problemi: Utilizzerai la logica per trovare una soluzione che raggiunga gli obiettivi che ti sei prefissato. Inoltre, avrai la capacità di supervisionare e valutare l'implementazione di quella soluzione creativa. Lavoro sotto pressione: Mantenere un ritmo di lavoro efficiente ed efficace durante l'esecuzione di compiti o attività. Lavoro di squadra: Lavorerai con i tuoi compagni per uno scopo e un obiettivo comuni. Decisioni basate sui dati: Imparerai a raccogliere e interpretare dati, metriche e fatti reali per prendere decisioni e risolvere problemi. Uso di strumenti tecnologici: È la capacità di valutare, creare e comunicare informazioni in modo sicuro ed etico utilizzando tecnologie informatiche come dispositivi mobili, computer e software. Questo si realizza imparando facendo. Così si riassume la metodologia STEM+E, che guida tutti i corsi dell'Università Fidélitas e possiamo dirti che sarà tutt'altro che noiosa, poiché è una metodologia di insegnamento attivo e dinamico che ti sfiderà a spingere la tua ingegnosità oltre i limiti che non avresti mai immaginato. Potrai potenziare le tue capacità per migliorare il lavoro di squadra e, nel contesto di un approccio costruttivista, ti farà trasformare qualcosa che esiste già in qualcosa di nuovo e innovativo."
+   },
+   "members": {
+    "title": "MEMBRI",
+    "button": "Vedi ulteriori informazioni",
+    "area": "Area di specializzazione", 
+    "faculty": "Facoltà", 
+    "modal1-i": "Ingegneria del Software e Basi di Dati.", 
+    "modal1-f": "Informatica", 
+    "modal2-i": "Processamento dei Materiali e Design Meccanico", 
+    "modal2-f": "Ingegneria Elettrica e Affini", 
+    "modal3-i": "Chimica dei materiali, materiali per pavimentazioni, sostenibilità.", 
+    "modal3-f": "Ingegneria Civile", 
+    "modal4-i": "Tecnologia del cemento", 
+    "modal4-f": "Ingegneria Civile",
+    "modal5-i": "Competenze di gestione, gestione dei processi, standardizzazione", 
+    "modal5-f": "Ingegneria Industriale", 
+    "modal6-i": "Ingegneria geotecnica",
+    "modal6-f": "Ingegneria Civile", 
+    "modal7-i": "Qualità Accademica/Nuove Tecnologie e Competenze Digitali", 
+    "modal7-f": "Dipartimento di Qualità Accademica", 
+    "modal8-i": "Ingegneria dei trasporti, scienza dei materiali, pavimentazioni", 
+    "modal8-f": "Ingegneria Civile", 
+    "modal9-i": "Fisica", 
+    "modal9-f": "Scienze di base", 
+    "modal10-i": "Ingegneria Industriale / Matematica", 
+    "modal10-f": "Ingegneria Industriale", 
+    "modal11-i": "Sistemi informatici", 
+    "modal11-f": "Ingegneria dei sistemi informatici"
+   }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono, tuttavia, quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere ritenuti responsabili."
+    }
+}

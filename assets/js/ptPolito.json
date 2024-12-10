@@ -1,0 +1,29 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "Sobre o ICoLearn", 
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e baseada na Internet para a transformação digital e o crescimento sustentável | Projeto N°: 101127224"
+    },
+    "accordion": {
+        "information": "INFORMAÇÃO GERAL", 
+        "text-i": "Ano de fundação: 1906: O Politécnico de Turim foi fundado oficialmente em 1906, embora suas raízes remontem a tempos mais antigos. Evoluiu a partir da anterior Escola Técnica de Engenheiros (fundada em 1859). Número de estudantes: Aproximadamente 35.000 estudantes Áreas temáticas: Engenharia: Aeroespacial, Automotiva, Biomédica, Química, Civil, Informática, Elétrica, Eletrônica, Energética, Ambiental, Gestão, Mecânica, Mecatrônica, Nuclear, Física, Telecomunicações Arquitetura Design Planejamento Territorial Faculdades (Departamentos): Departamento de Arquitetura e Design (DAD) Departamento de Energia (DENERG) Departamento de Eletrônica e Telecomunicações (DET) Departamento de Engenharia Ambiental, Territorial e Infraestrutura (DIATI) Departamento de Ciência Aplicada e Tecnologia (DISAT) Departamento de Engenharia de Gestão e Produção (DIGEP) Departamento de Engenharia Mecânica e Aeroespacial (DIMEAS) Departamento Interdepartamental de Estudos e Planejamento Regional e Urbano (DIST) Número de Campi Universitários: Os principais campi em Turim são: Campus Principal (Cittadella Politecnica): O coração histórico da universidade. Lingotto: Outro campus significativo. Cittadella del Design Castello del Valentino: Um belo castelo histórico que também serve como campus e está catalogado como Patrimônio da Humanidade pela UNESCO."
+    },
+    "visit": {
+        "title": "VISITE-NOS!"
+    },
+    "members": {
+        "title": "MEMBROS",
+        "button": "Ver mais informações",
+        "area": "Área de especialização", 
+        "faculty": "Faculdade"
+    },
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado pela União Europeia. As opiniões e pontos de vista expressos são, no entanto, apenas dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente da subvenção podem ser responsabilizadas por eles."
+    }
+}

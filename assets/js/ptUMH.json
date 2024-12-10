@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Início", 
+        "about": "Sobre o ICoLearn", 
+        "results": "Resultados",
+        "news": "Novidades",
+        "contact": "Contate-nos"
+    },
+    "name": {
+        "text": "ICoLearn - Caixa de ferramentas de metodologias de aprendizagem colaborativa e Internet para a transformação digital e o crescimento sustentável | <b> Projeto N.º: 101127224"
+    }, 
+   "accordion": {
+        "information": "INFORMAÇÃO GERAL", 
+        "text-i": "Ano de fundação: 2002. Número de estudantes: 2400. Áreas temáticas: Engenharia, Marketing, Ecologia, Área Social, Comunicação Jurídica. Nome das faculdades: Faculdade de Ciências Empresariais, Faculdade de Ecologia e Meio Ambiente, Faculdade de Ciências Sociais, Faculdade de Ciências da Comunicação, Faculdade de Ciências Jurídicas, Faculdade de Engenharia. Número de campus universitários: 10 campus em todo o país."
+   },
+   "visit": {
+        "title": "VISITE-NOS!"
+   }, 
+   "relevant": {
+        "title": "OUTRAS INFORMAÇÕES RELEVANTES", 
+        "info": "A Universidade Metropolitana de Honduras é uma instituição de Ensino Superior privada, sem fins lucrativos, fundada pela Fundação Universitária Metropolitana FUMH (FUMH), por meio da resolução 89-2001 publicada no Diário Oficial La Gaceta em 1º de agosto de 2001. Criada pelo acordo No. 1068-154-2002, em 18 de dezembro de 2002, pela Direção de Educação Superior de Honduras. A universidade possui 10 campus em todo o país, localizados nas principais cidades, oferece 9 cursos de graduação, 7 cursos de mestrado e 2 cursos de nível técnico profissional, com 400 funcionários, entre executivos, administrativos e docentes, e conta com uma população estudantil superior a 6000 alunos. Missão: Contribuir para o desenvolvimento social, econômico, tecnológico e político do país, por meio da formação de recursos humanos de qualidade e competitivos, capazes de transformar as estruturas sociais, econômicas e políticas. Formar gerações de profissionais com valores e atitudes positivas, de acordo com sua condição humana e as exigências éticas e morais da sociedade. Visão: Ser um centro docente de Ensino Superior que ofereça serviços educacionais de qualidade, com projeção internacional nos diferentes campos do conhecimento humano. Ser uma universidade avançada nas técnicas e metodologias relacionadas à criação e transmissão das ciências, artes e cultura, formando um sistema de aprendizagem que vincule acadêmicos às necessidades e problemas locais, nacionais e regionais, contribuindo para sua solução. Metas: * Desenvolver o ensino superior para formar profissionais em conformidade com os conceitos e exigências da globalização e da competitividade nacional e internacional. * Desenvolver uma educação científica e humanística que capacite o aluno. * Oferecer uma formação estratégica, com o objetivo de formar um profissional capaz de contribuir para o desenvolvimento dos setores sociais do país. A UMH faz parte de organismos nacionais e internacionais comprometidos com a gestão de riscos de desastres e adaptação às mudanças climáticas, como o Comitê Interinstitucional de Ciências Ambientais (CICA), uma aliança com o Serviço Nacional do Empreendedorismo e Pequenos Negócios (SENPRENDE), o Corpo de Bombeiros, a Comissão Permanente de Contingências (COPECO), entre outros. A nível internacional, a UMH é membro da Rede de Universidades das Américas e Caribe para a Redução de Riscos de Desastres (REDULAC/RRD), sendo criadora do Capítulo Honduras e presidente por 4 anos. A universidade foi premiada com o Prêmio NOE na República Dominicana pelo trabalho realizado nesse tema. A UMH também é membro da Rede de Instituições de Ensino Superior da América Latina e Caribe (RiesGIRD-LAC) e atualmente ocupa a presidência da rede."
+   }, 
+   "members": {
+        "title": "MEMBROS",
+        "button": "Ver Mais Informações",
+        "area": "Área de especialização", 
+        "faculty": "Faculdade", 
+        "modal1-i": "Telecomunicações/Gestão Empresarial/Ensino Superior",
+        "modal1-f": "Engenharia/Ciências Empresariais",
+        "modal2-i": "Controle de Qualidade Total/Ensino Superior",
+        "modal2-f": "Engenharia",
+        "modal3-i": "Marketing/Ensino Superior",
+        "modal3-f": "Ciências Empresariais",
+        "modal4-i": "Gestão Empresarial/Ensino Superior",
+        "modal5-i": "Marketing/Desenvolvimento Sustentável Internacional",
+        "modal5-f": "Ciências Empresariais",
+        "modal6-i": "Marketing/Desenvolvimento Sustentável Internacional",
+        "modal6-f": "Ciências Empresariais",
+        "modal7-i": "Ensino Superior com orientação para Docência Universitária e Design Curricular",
+        "modal7-f": "Ciências Sociais",
+        "modal8-i": "Construção/Gestão de Riscos/Ensino Superior",
+        "modal9-f": "Engenharia"
+   }, 
+    "footer": {
+        "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são apenas do autor e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Inicio", 
+        "about": "Acerca de ICoLearn", 
+        "results": "Resultados",
+        "news": "Novedades",
+        "contact": "Contactanos"
+    },
+    "name": {
+        "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMACIÓN GENERAL", 
+    "text-i": "Año de fundación: 1906: El Poltécnico de Turín se fundó oficialmente en 1906, aunque sus raíces se remontan a tiempos más antiguos. Evolucionó a partir de la anterior Escuela Técnica de Ingenieros (fundada en 1859). Número de estudiantes: Aproximadamente 35.000 estudiantes Áreas temáticas: Ingeniería: Aeroespacial, Automotriz, Biomédica, Química, Civil, Informática, Eléctrica, Electrónica, Energética, Ambiental, Gestión, Mecánica, Mecatrónica, Nuclear, Física, Telecomunicaciones Arquitectura Diseño Planificación Territorial Facultades (Departamentos): Departamento de Arquitectura y Diseño (DAD) Departamento de Energía (DENERG) Departamento de Electrónica y Telecomunicaciones (DET) Departamento de Ingeniería Ambiental, Territorial e Infraestructura (DIATI) Departamento de Ciencia Aplicada y Tecnología (DISAT) Departamento de Ingeniería de Gestión y Producción (DIGEP) Departamento de Ingeniería Mecánica y Aeroespacial (DIMEAS) Departamento Interdepartamental de Estudios y Planificación Regional y Urbana (DIST) Número de Campus Universitarios: Los principales campus dentro de Turín son: Campus Principal (Cittadella Politecnica): El corazón histórico de la universidad. Lingotto: Otro campus significativo. Cittadella del Design Castello del Valentino: Un hermoso castillo histórico que también sirve como campus y está catalogado como Patrimonio de la Humanidad por la UNESCO."
+   },
+   "visit": {
+    "title": "VISITANOS!"
+   }, 
+   "members": {
+    "title": "MIEMBROS",
+    "button": "Ver más información",
+    "area": "Área de especialización", 
+    "faculty": "Facultad"
+   },
+   
+    "footer": {
+        "disclaimer": "Aviso legal: Financiado por la Unión Europea. Las opiniones y puntos de vista expresados ​​son, sin embargo, los de los autores únicamente y no reflejan necesariamente los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser consideradas responsables de ellos."
+    }
+}

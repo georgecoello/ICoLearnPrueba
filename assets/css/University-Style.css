@@ -33,6 +33,13 @@
 }
 
 
+.fixed-top{
+  z-index: 1;
+}
+
+.modal{
+  z-index: 10000;
+}
 /*.accordion-item .accordion-body{
 
 }*/  

@@ -1,0 +1,30 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "Chi siamo ICoLearn", 
+        "results": "Risultati",
+        "news": "Novità",
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto N°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAZIONI GENERALI", 
+    "text-i": "Anno di fondazione: 1906: Il Politecnico di Torino è stato fondato ufficialmente nel 1906, sebbene le sue radici risalgano a tempi più antichi. È evoluto dalla precedente Scuola Tecnica di Ingegneri (fondata nel 1859). Numero di studenti: Circa 35.000 studenti Aree tematiche: Ingegneria: Aerospaziale, Automotive, Biomedica, Chimica, Civile, Informatica, Elettrica, Elettronica, Energetica, Ambientale, Management, Meccanica, Meccatronica, Nucleare, Fisica, Telecomunicazioni Architettura Design Pianificazione Territoriale Facoltà (Dipartimenti): Dipartimento di Architettura e Design (DAD) Dipartimento di Energia (DENERG) Dipartimento di Elettronica e Telecomunicazioni (DET) Dipartimento di Ingegneria Ambientale, Territoriale e Infrastrutturale (DIATI) Dipartimento di Scienze Applicate e Tecnologie (DISAT) Dipartimento di Ingegneria Gestionale e della Produzione (DIGEP) Dipartimento di Ingegneria Meccanica e Aerospaziale (DIMEAS) Dipartimento Interdipartimentale di Studi e Pianificazione Regionale e Urbana (DIST) Numero di campus universitari: I principali campus all'interno di Torino sono: Campus principale (Cittadella Politecnica): Il cuore storico dell'università. Lingotto: Un altro campus significativo. Cittadella del Design Castello del Valentino: Un bellissimo castello storico che serve anche come campus ed è classificato come patrimonio dell'umanità dall'UNESCO."
+   },
+   "visit": {
+    "title": "VISITACI!"
+   }, 
+   "members": {
+    "title": "MEMBRI",
+    "button": "Vedi maggiori informazioni",
+    "area": "Area di specializzazione", 
+    "faculty": "Facoltà"
+   },
+   
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "CHI SIAMO ICoLearn", 
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e basato su Internet per la trasformazione digitale e la crescita sostenibile | Progetto N°: 101127224"
+    }, 
+    "package": {
+        "title": "Pacchetto di lavoro 3",
+        "subtitle": "Progettazione e organizzazione",
+        "text1": "Durata: M13 – M24 Beneficiario principale: 6 - UCR Obiettivi: Definire le procedure e i programmi dettagliati per l'implementazione delle metodologie di apprendimento basate su Internet e degli strumenti collaborativi nelle materie selezionate (unità curriculari) nelle IES dei paesi partner, per ciascuna unità curriculare coinvolta. Selezione delle aziende che forniranno compiti/assegnazioni per gli studenti di LF e BL. Specifica dettagliata dei compiti/assegnazioni per l'implementazione delle metodologie di apprendimento basate su Internet e degli strumenti collaborativi nelle materie selezionate (unità curriculari), nelle università partner dei paesi partner per la loro applicazione all'interno di ciascuna materia (unità curriculare). Piano di programmazione per l'insegnamento e il lavoro degli studenti su compiti/assegnazioni predefiniti durante il semestre, per l'implementazione e l'esecuzione delle metodologie di apprendimento basate su Internet e degli strumenti collaborativi per ciascuna delle materie selezionate (unità curriculari), nelle università partner dei paesi partner.",
+        "deliverables": "Deliverables D3.1 - Progettazione e procedura di applicazione dello strumento D3.2 - \"Evento di intermediazione\" D3.3 - Piano delle assegnazioni e programmazione"
+    }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Le opinioni e i punti di vista espressi sono tuttavia quelli degli autori e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità che concede il finanziamento possono essere considerati responsabili."
+    }
+}

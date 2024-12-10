@@ -1,0 +1,48 @@
+{
+    "nav": {
+        "title": "ICoLearn", 
+        "home": "Home", 
+        "about": "Chi siamo ICoLearn", 
+        "results": "Risultati", 
+        "news": "Novità", 
+        "contact": "Contattaci"
+    },
+    "name": {
+        "text": "ICoLearn - Strumento metodologico di apprendimento collaborativo e Internet per la trasformazione digitale e la crescita sostenibile |<b> Progetto N.°: 101127224"
+    }, 
+   "accordion": {
+    "information": "INFORMAZIONI GENERALI", 
+    "text-i": "Anno di fondazione: 2002 Numero di studenti: 2400 Aree tematiche: Ingegneria Marketing Ecologia Area sociale Comunicazione Giuridica Nome delle facoltà: Facoltà di Scienze Aziendali Facoltà di Ecologia e Ambiente Facoltà di Scienze Sociali Facoltà di Scienze della Comunicazione Facoltà di Scienze Giuridiche Facoltà di Ingegneria Numero di campus universitari: 10 campus a livello nazionale nel paese"
+   },
+   "visit": {
+    "title": "VISITACI!"
+   }, 
+   "relevant": {
+    "title": "ALTRI INFORMAZIONI RILEVANTI", 
+    "info": "La Universidad Metropolitana de Honduras è un'istituzione di Educazione Superiore privata, senza scopo di lucro, fondata dalla Fundación Universitaria Metropolitana FUMH (FUMH), mediante risoluzione 89-2001 pubblicata nel quotidiano ufficiale La Gaceta il 1° agosto 2001, creata mediante accordo No. 1068-154-2002 del 18 dicembre 2002, dalla Direzione dell'Istruzione Superiore dell'Honduras. Conta 10 campus a livello nazionale nelle principali città del paese, offre 9 corsi di laurea, 7 corsi di master e 2 corsi di formazione tecnica professionale, con 400 dipendenti tra esecutivi, amministrativi e docenti, e una popolazione studentesca di oltre 6000 studenti. Missione: Contribuire allo sviluppo sociale, economico, tecnologico e politico del paese, formando risorse umane di qualità e competitive, capaci di trasformare le strutture sociali, economiche e politiche. Formare generazioni di professionisti con valori e atteggiamenti positivi in accordo con la loro condizione umana e le esigenze etiche e morali della società. Visione: Essere un centro educativo di Istruzione Superiore che offra servizi educativi di qualità, con proiezione internazionale nei diversi campi del sapere umano. Essere un'università avanzata nelle tecniche e metodologie relative alla creazione e trasmissione delle scienze, delle arti e della cultura, formando un sistema di apprendimento che colleghi gli accademici con le necessità e i problemi locali, nazionali e regionali per contribuire alla loro soluzione. Obiettivi: * Sviluppare l'istruzione superiore per formare professionisti nell'ambito dei concetti e delle esigenze della globalizzazione e della competitività nazionale e internazionale. * Sviluppare un'educazione scientifica e umanistica che formi lo studente. * Offrire una formazione strategica per formare un professionista capace di contribuire allo sviluppo dei settori sociali del paese. La UMH fa parte di organismi nazionali e internazionali impegnati nella gestione del rischio di disastri e nell'adattamento ai cambiamenti climatici, ad esempio, a livello nazionale, il Comitato Interistituzionale di Scienze Ambientali (CICA), un'alleanza a livello di governo honduregno con il Servizio Nazionale dell'Imprenditoria e della Piccola Impresa (SENPRENDE), con diverse istituzioni della società civile come il Corpo dei Vigili del Fuoco, la Commissione Permanente delle Contingenze (COPECO), l'Associazione per una Società Più Giusta (ASJ), il Consiglio Honduregno dell'Impresa Privata (COHEP), i Centri di Sviluppo Imprenditoriale (CDE) e altri. A livello internazionale, la UMH è membro della Rete delle Università delle Americhe e dei Caraibi per la Riduzione del Rischio di Disastri (REDULAC/RRD); essendo i creatori del Capitolo Honduras, avendo ricoperto la presidenza per 4 anni, premiata con il Premio NOE nella Repubblica Dominicana in riconoscimento del lavoro svolto in questo ambito; l'Università è membro della Rete delle Istituzioni di Educazione Superiore dell'America Latina e dei Caraibi (RiesGIRD-LAC) e attualmente presiede la Rete. Inoltre, la UMH è membro e ha guidato l'Associazione delle Università Private dell'Honduras (ANUPRIH) ed è membro dell'Associazione delle Università Private dell'America Centrale (AUPRICA)."
+   }, 
+   "members": {
+    "title": "MEMBRI",
+    "button": "Vedi maggiori informazioni",
+    "area": "Area di specializzazione", 
+    "faculty": "Facoltà", 
+    "modal1-i": "Telecomunicazioni/Gestione Aziendale/Istruzione Superiore",
+    "modal1-f": "Ingegneria/Scienze Aziendali",
+    "modal2-i": "Controllo Qualità Totale/Istruzione Superiore",
+    "modal2-f": "Ingegneria",
+    "modal3-i": "Marketing/Istruzione Superiore",
+    "modal3-f": "Scienze Aziendali",
+    "modal4-i": "Gestione Aziendale/Istruzione Superiore",
+    "modal5-i": "Marketing/Sviluppo Sostenibile Internazionale",
+    "modal5-f": "Scienze Aziendali",
+    "modal6-i": "Marketing/Sviluppo Sostenibile Internazionale",
+    "modal6-f": "Scienze Aziendali",
+    "modal7-i": "Istruzione Superiore orientata alla Didattica Universitaria e alla Progettazione Curricolare",
+    "modal7-f": "Scienze Sociali",
+    "modal8-i": "Costruzione/Gestione dei rischi/Istruzione superiore",
+    "modal9-f": "Ingegneria"
+   }, 
+    "footer": {
+        "disclaimer": "Avviso legale: Finanziato dall'Unione Europea. Tuttavia, le opinioni e i punti di vista espressi sono esclusivamente quelli dell'autore e non riflettono necessariamente quelli dell'Unione Europea. Né l'Unione Europea né l'autorità erogante del finanziamento possono essere considerati responsabili."
+    }
+}
