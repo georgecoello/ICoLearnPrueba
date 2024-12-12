@@ -2,7 +2,8 @@
     "nav": {
         "title": "ICoLearn", 
         "home": "Início", 
-        "about": "SOBRE O ICoLearn", 
+        "about": "SOBRE O ICoLearn",
+        "partners": "Parceiros",
         "results": "Resultados",
         "news": "Novidades",
         "contact": "Contate-nos"
@@ -13,9 +14,14 @@
     "package": {
         "title": "Pacote de trabalho 4",
         "subtitle": "Implementação", 
-        "text1": "Duração: M25 – M36. Beneficiário principal: 5 - Universidade Fidelitas. Objetivos: Implementação direta das metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas (e por) parceiros dos países parceiros em três fases. No início dos semestres, as primeiras atividades serão instruções detalhadas para os estudantes sobre o uso de ferramentas para o ensino e trabalho dos estudantes e a organização de acordo com o emparelhamento de uma unidade curricular específica com uma ferramenta específica, por instituição de ensino superior dos países parceiros para a implementação, conforme descrito no pacote de trabalho 3. Ensino eficaz e trabalhos dos estudantes de acordo com os planos especificados em detalhes nos pacotes de trabalho 2 e 3. Avaliação das ferramentas implementadas.",  
-
-        "deliverables": "Entregáveis: D4.1 - Implementação das atividades de ensino e trabalho dos estudantes. D4.2 - Avaliação das ferramentas implementadas"
+        "text1": "Duração: M25 – M36. Beneficiário principal: 5 - Universidade Fidelitas. Objetivos:", 
+        "o1": "Implementação direta das metodologias de aprendizagem baseadas na Internet e ferramentas colaborativas (e por) parceiros dos países parceiros em três fases.",  
+        "o2": "No início dos semestres, as primeiras atividades serão instruções detalhadas aos alunos sobre a utilização de ferramentas de ensino e do trabalho e organização do aluno de acordo com o emparelhamento de determinada unidade curricular com determinada ferramenta, por IES dos países Parceiros para implementação, conforme descrito no WP3.",
+        "o3": "Ensino eficaz e trabalhos dos alunos de acordo com os planos detalhados no WP2 e WP3.",
+        "o4": "Evaluation of the implemented tools.",
+        "deliverables": "Entregáveis:", 
+        "d1": "D4.1 - Implementação das atividades de ensino e trabalho dos estudantes.", 
+        "d2": "D4.2 - Avaliação das ferramentas implementadas"
     }, 
     "footer": {
         "disclaimer": "Aviso Legal: Financiado pela União Europeia. No entanto, as opiniões e pontos de vista expressos são exclusivamente dos autores e não refletem necessariamente os da União Europeia. Nem a União Europeia nem a autoridade concedente podem ser responsabilizadas por eles."
