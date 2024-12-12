@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Home", 
         "about": "Chi siamo ICoLearn", 
+        "partners": "Partner",
         "results": "Risultato", 
         "news": "Novità", 
         "contact": "Contattaci"
@@ -23,6 +24,7 @@
    },
    "members": {
     "title": "MEMBRI",
+    "coord": "Coordinatore",
     "button": "Vedi maggiori informazioni",
     "area": "Area di specializzazione", 
     "faculty": "Facoltà", 
