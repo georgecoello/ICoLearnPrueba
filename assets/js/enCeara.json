@@ -13,7 +13,7 @@
     }, 
    "accordion": {
     "information": "GENERAL INFORMATION", 
-    "text-i": "Foundation year: 1954 Student number: 33.500 Subject áreas: Exact and Earth Sciences Biological Sciences Engineering Health Sciences Agricultural Sciences Linguistics, Letters and Arts Applied Social Sciences Human Sciences Faculties name: College of Sciences College of Humanities College of Technology College of Agricultural Sciences College of Medicine College of Pharmacy Dentistry and Nursing College of Law College of Education College of Economics College of Marine Sciences College of Culture and Arts College of  Physical Education and Sports College of  Distance Education Number of university campus: 8"
+    "text-i": "Foundation year: 1954 Student number: 33.500 Subject areas: Exact and Earth Sciences Biological Sciences Engineering Health Sciences Agricultural Sciences Linguistics, Letters and Arts Applied Social Sciences Human Sciences Faculties name: College of Sciences College of Humanities College of Technology College of Agricultural Sciences College of Medicine College of Pharmacy Dentistry and Nursing College of Law College of Education College of Economics College of Marine Sciences College of Culture and Arts College of  Physical Education and Sports College of  Distance Education Number of university campus: 8"
    },
    "visit": {
     "title": "VISIT US!"
@@ -35,7 +35,7 @@
     "modal2-f": " Technology Center ", 
     "modal3-i": " Energy and exergetic analysis of thermal systems ", 
     "modal3-f": "Technology Center", 
-    "modal4-i": " Transport Engineering; Environmental Impacts and Transports; Logístic ",
+    "modal4-i": " Transport Engineering; Environmental Impacts and Transports; Logistic ",
     "modal4-f": "Technology Center", 
     "modal5-i": " Design methods; Digital Design; Building Information Modeling; Performance-based Design ",
     "modal5-f": "Technology Center", 
@@ -49,6 +49,6 @@
     "modal9-f": "Technology Center"
    }, 
     "footer": {
-        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
     }
 }

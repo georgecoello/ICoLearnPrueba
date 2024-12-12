@@ -31,7 +31,7 @@
     "modal2-f": " School of Engineering, Department of Production Engineering Universidade Federal Fluminense", 
     "modal3-i": " Quality management, Project Management, Supply chain management.", 
     "modal3-f": " School of Engineering, Department of Production Engineering Universidade Federal Fluminense.", 
-    "modal4-i": " Intangible Asset; ESG ( Enviromental, Social and Governance); Product Life Cycle Assessment ", 
+    "modal4-i": " Intangible Asset; ESG ( Environmental, Social and Governance); Product Life Cycle Assessment ", 
     "modal4-f": " Department of Actuarial Sciences and Finance, Fluminense Federal University. ", 
     "modal5-i": " Ergonomics, Human Factors, Health and Safety at Work, Anthropometrics ",
     "modal5-f": " Fluminense Federal University, School of Engineering, Production Engineering Department.", 
@@ -44,6 +44,6 @@
 
    }, 
     "footer": {
-        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
     }
 }

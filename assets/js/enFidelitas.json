@@ -13,7 +13,7 @@
     }, 
    "accordion": {
     "information": "GENERAL INFORMATION", 
-    "text-i": "Foundation year: 1980 Subjectc Areas:Ingenierías y ArquitecturaCiencias de la ComputaciónCiencias SocialesCiencias EconómicasCiencias de la Educación Faculties name:Facultad de Ingenierías y ArquitecturaFacultad de Ciencias de la ComputaciónFacultad de Ciencias SocialesFacultad de Ciencias EconómicasFacultad de Ciencias de la Educación Number of University Campus: Sede Central (San Pedro), Sede Heredia "
+    "text-i": "Foundation year: 1980 Subject Areas:Ingenierías y ArquitecturaCiencias de la ComputaciónCiencias SocialesCiencias EconómicasCiencias de la Educación Faculties name:Facultad de Ingenierías y ArquitecturaFacultad de Ciencias de la ComputaciónFacultad de Ciencias SocialesFacultad de Ciencias EconómicasFacultad de Ciencias de la Educación Number of University Campus: Sede Central (San Pedro), Sede Heredia "
    },
    "visit": {
     "title": "VISIT US!"
@@ -53,6 +53,6 @@
     "modal11-f": " Computer Systems Engineering "
    }, 
     "footer": {
-        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are howerer those of the author(s) only and do not necessaarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
+        "disclaimer": "Disclaimer: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them."
     }
 }
