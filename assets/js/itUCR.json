@@ -13,14 +13,22 @@
     }, 
    "accordion": {
     "information": "INFORMAZIONI GENERALI", 
-    "text-i": "Università pubblica con autonomia amministrativa e finanziaria. Fondata il 26 agosto 1940. Posizione 19 tra le migliori università dell'America Latina. Riconosciuta come un fattore di mobilità sociale nella società della Costa Rica. Il campus principale si trova nel centro di San José, Costa Rica. Conta 12 sedi distribuite su tutto il territorio della Costa Rica. Popolazione studentesca 43.000. Ammissioni annuali 9.500. Lauree annuali 6.500. 13 Facoltà, 48 Scuole, 538 Opzioni accademiche."
+    "text1": "Università pubblica con autonomia amministrativa e finanziaria.", 
+    "text2": "Fondata il 26 agosto 1940.", 
+    "text3": "Posizione 19 tra le migliori università dell'America Latina.",
+    "text4": "Riconosciuta come un fattore di mobilità sociale nella società della Costa Rica.", 
+    "text5": "Il campus principale si trova nel centro di San José, Costa Rica.", 
+    "text6": "Conta 12 sedi distribuite su tutto il territorio della Costa Rica.", 
+    "text7": "Popolazione studentesca 43.000.", 
+    "text8": "Ammissioni annuali 9.500. Lauree annuali 6.500.", 
+    "text9": "13 Facoltà, 48 Scuole, 538 Opzioni accademiche."
    },
    "visit": {
     "title": "VISITACI!"
    }, 
    "relevant": {
     "title": "ALTRE INFORMAZIONI RILEVANTI",
-    "info": "Il campus principale si trova nel centro di San José, Costa Rica. Ha 12 sedi distribuite sul territorio della Repubblica del Costa Rica. Le più grandi sono chiamate “Sedi” e le più piccole “Recinti”. San José, San Ramón, Grecia, Liberia, Santa Cruz, Puntarenas, Limón, Guápiles, Turrialba, Golfito, Alajuela, Paraíso."
+    "info": "Il campus principale si trova nel centro di San José, Costa Rica. Ha 12 sedi distribuite sul territorio della Repubblica del Costa Rica. Le più grandi sono chiamate “Sedi” e le più piccole “Recinti”:  1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
    },
    "members": {
     "title": "MEMBRI",

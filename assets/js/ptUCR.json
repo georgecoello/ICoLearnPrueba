@@ -13,14 +13,22 @@
     }, 
    "accordion": {
         "information": "INFORMAÇÃO GERAL", 
-        "text-i": "Universidade pública com autonomia administrativa e financeira. Foi fundada em 26 de agosto de 1940. Posição 19 entre as melhores universidades da América Latina. Reconhecida como um fator de mobilidade social na sociedade da Costa Rica. O campus principal está localizado no centro de San José, Costa Rica. Conta com 12 sedes, distribuídas por todo o território da Costa Rica. População estudantil: 43.000. Admissão anual: 9.500. Graduações anuais: 6.500. 13 Faculdades, 48 Escolas, 538 opções acadêmicas."
+        "text1": "Universidade pública com autonomia administrativa e financeira.", 
+        "text2": "Foi fundada em 26 de agosto de 1940.", 
+        "text3": "Posição 19 entre as melhores universidades da América Latina.", 
+        "text4": "Reconhecida como um fator de mobilidade social na sociedade da Costa Rica.", 
+        "text5":  "O campus principal está localizado no centro de San José, Costa Rica.",
+        "text6": "Conta com 12 sedes, distribuídas por todo o território da Costa Rica. ",
+        "text7": "População estudantil: 43.000.",
+        "text8": "Admissão anual: 9.500. Graduações anuais: 6.500.",
+        "text9": "13 Faculdades, 48 Escolas, 538 opções acadêmicas."
    },
    "visit": {
         "title": "VISITE-NOS!"
    },
    "relevant": {
         "title": "OUTRA INFORMAÇÃO RELEVANTE",
-        "info": "O campus principal está localizado no centro de San José, Costa Rica. Possui 12 sedes espalhadas pelo território da República Checa. As maiores são chamadas de “Sedes” e as menores são chamadas de “Recintos”. San José, San Ramón, Grecia, Liberia, Santa Cruz, Puntarenas, Limón, Guápiles, Turrialba, Golfito, Alajuela, Paraíso."
+        "info": "O campus principal está localizado no centro de San José, Costa Rica. Possui 12 sedes espalhadas pelo território da República Checa. As maiores são chamadas de “Sedes” e as menores são chamadas de “Recintos”: 1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
    },
    "members": {
         "title": "MEMBROS",

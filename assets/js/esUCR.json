@@ -13,14 +13,22 @@
     }, 
    "accordion": {
     "information": "INFORMACION GENERAL", 
-    "text-i": "Universidad pública con autonomía administrativa y financiera. Fue fundada el 26 de agosto de 1940. Posición 19 entre las mejores universidades de América Latina. Reconocida como un factor de movilidad social en la sociedad de CR. El campus principal está ubicado en el centro de San José, Costa Rica. Cuenta con 12 sedes, distribuidas a lo largo del territorio de CR. Población estudiantil 43.000. Admisión anual 9.500. Graduaciones anuales 6.500. 13 Facultades, 48 ​​Escuelas, 538 Opciones académicas."
+    "text1": "Universidad pública con autonomía administrativa y financiera.", 
+    "text2": "Fue fundada el 26 de agosto de 1940.", 
+    "text3": "Posición 19 entre las mejores universidades de América Latina", 
+    "text4": "Reconocida como un factor de movilidad social en la sociedad de CR.", 
+    "text5": "El campus principal está ubicado en el centro de San José, Costa Rica.", 
+    "text6":  "Cuenta con 12 sedes, distribuidas a lo largo del territorio de CR.", 
+    "text7": "Población estudiantil 43.000",  
+    "text8": "Admisión anual 9.500. Graduaciones anuales 6.500.", 
+    "text9": "13 Facultades, 48 ​​Escuelas, 538 Opciones académicas."
    },
    "visit": {
     "title": "VISITANOS!"
    }, 
    "relevant": {
     "title": "OTRA INFORMACIÓN RELEVANTE",
-    "info": " El campus principal está ubicado en el centro de San José, Costa Rica. Tiene 12 sedes, repartidas por el territorio de la República Checa. Los más grandes se llaman “Sedes” y los más pequeños se llaman “Recintos”. San José San Ramón Grecia Liberia Santa Cruz Puntarenas Limón Guápiles Turrialba Golfito Alajuela Paraíso"
+    "info": " El campus principal está ubicado en el centro de San José, Costa Rica. Tiene 12 sedes, repartidas por el territorio de la República Checa. Los más grandes se llaman “Sedes” y los más pequeños se llaman “Recintos”: 1) San José, 2) San Ramón, 3) Grecia, 4) Liberia, 5) Santa Cruz, 6) Puntarenas, 7) Limón, 8) Guápiles, 9) Turrialba, 10) Golfito, 11) Alajuela, 12) Paraíso."
    },
    "members": {
     "title": "MIEMBROS",
