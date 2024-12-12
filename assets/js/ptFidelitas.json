@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Início", 
         "about": "SOBRE O ICoLearn", 
+        "partners": "Parners",
         "results": "Resultados",
         "news": "Novidades",
         "contact": "Contate-nos"
@@ -12,20 +13,44 @@
     }, 
    "accordion": {
     "information": "INFORMAÇÕES GERAIS", 
-    "text-i": "Ano de fundação: 1980 Áreas Temáticas:Engenharia e ArquiteturaCiências da ComputaçãoCiências SociaisCiências EconômicasCiências da Educação Nome das faculdades:Faculdade de Engenharia e ArquiteturaFaculdade de Ciências da ComputaçãoFaculdade de Ciências SociaisFaculdade de Ciências EconômicasFaculdade de Ciências da Educação Número de campus universitário: Sede Central (San Pedro), Sede Heredia"
+    "t1": "Ano de criação: 1980",
+    "t2": "Áreas temáticas:",
+    "t3": "Engenharia e Arquitetura",
+    "t4": "Computação",
+    "t5": "Ciências Sociais",
+    "t6": "Ciências Económicas",
+    "t7": "Educação científica",
+    "t8": "Nome das faculdades:",
+    "t9": "Faculdade de Engenharia e Arquitectura",
+    "t10": "Faculdade de Ciência da Computação",
+    "t11": "Faculdade de Ciências Sociais",
+    "t12": "Faculdade de Ciências Económicas",
+    "t13": "Faculdade de Ciências da Educação",
+    "t14": "Número do Campus Universitário: Sede (San Pedro), Sede Heredia"
    },
    "visit": {
     "title": "VENHA NOS VISITAR!"
    }, 
    "relevant": {
     "title": "OUTRAS INFORMAÇÕES RELEVANTES",
-    "info": "Na Fidélitas, formamos um profissional integral e por isso promovemos o desenvolvimento das habilidades essenciais, que são um conjunto de capacidades e competências que permitem às pessoas enfrentar com sucesso os desafios e exigências da vida pessoal, acadêmica e profissional. As habilidades essenciais são aplicáveis em diversos contextos e situações, desempenhando um papel chave no desenvolvimento pessoal e no aprendizado contínuo. Abaixo, explicamos elas para você: Pesquisa: Você aprenderá a aumentar seus conhecimentos por meio da coleta, organização e análise de informações. Comunicação assertiva: Você se comunicará melhor, pois poderá expressar sua opinião sem violar os direitos dos outros. Desenvolvimento do pensamento criativo: Você resolverá problemas dentro do contexto do seu aprendizado de forma original, flexível e fluida. Resolução criativa de problemas: Você utilizará a lógica para encontrar soluções que atendam aos objetivos que estabelecer. Além disso, será capaz de supervisionar e avaliar a implementação dessa solução criativa. Trabalho sob pressão: Você manterá seu ritmo eficiente e eficaz enquanto realiza tarefas ou atividades. Trabalho em equipe: Você trabalhará com seus colegas com um objetivo e meta comuns. Tomada de decisão baseada em dados: Você aprenderá a obter e interpretar dados, métricas e fatos reais para tomar decisões e encontrar soluções para problemas. Uso de ferramentas tecnológicas: É a capacidade de avaliar, criar e comunicar informações de forma segura e ética utilizando tecnologias da informação como dispositivos móveis, computadores e softwares. Isso é alcançado Aprendendo fazendo. Assim se resume a Metodologia STEM+E sob a qual todos os cursos da Universidade Fidélitas são ministrados, e podemos garantir que será tudo, menos entediante, pois é uma metodologia de ensino ativa e dinâmica que desafiará você a levar sua criatividade a limites que nunca imaginou. Você poderá potencializar suas habilidades para aumentar sua capacidade de trabalho em equipe e, no contexto de uma abordagem construtivista, ela fará você transformar algo que já existe em algo novo e inovador."
+    "i1": "Na Fidélitas formamos um profissional completo e por isso promovemos o desenvolvimento de competências essenciais, que são um conjunto de aptidões e competências que permitem às pessoas enfrentar com sucesso os desafios e exigências da vida pessoal, académica e profissional. L ' essential As competências são aplicáveis ​​em vários contextos e situações, desempenham um papel fundamental no desenvolvimento pessoal e na aprendizagem contínua.", 
+    "i2": "Investigação: Aprenderá a aumentar o seu conhecimento recolhendo, organizando e analisando informação.",
+    "i3": "Comunicação assertiva: comunicará melhor, pois poderá dar a conhecer a sua opinião sem violar os direitos dos seus colegas.",
+    "i4": "Desenvolvimento do pensamento criativo: irá resolver problemas no contexto da sua aprendizagem de forma original, flexível e fluída.",
+    "i5": "Resolução Criativa de Problemas: Utilizará a lógica para encontrar uma solução que vá ao encontro dos objetivos definidos. Terá também a capacidade de monitorizar e avaliar a implementação dessa solução criativa.",
+    "i6": "Trabalhar sob pressão: Manterá o seu ritmo de forma eficiente e eficaz ao realizar tarefas ou atividades.",
+    "i7": "Trabalho em equipa: Trabalhará com os seus colegas em prol de um propósito e objetivo comum.",
+    "i8": "Tomada de decisão baseada em dados: aprenderá a obter e interpretar dados, métricas e factos reais para tomar decisões e encontrar soluções para problemas.",
+    "i9": "Utilização de ferramentas tecnológicas: é a capacidade de avaliar, criar e comunicar informação de forma segura e ética utilizando tecnologias de informação como dispositivos móveis, computadores e software.",
+    "i10": "O acima exposto é conseguido através de “Aprender fazendo”. <br> Isto resume a metodologia STEM+E com que todos os cursos da Universidade Fidélitas são ministrados e podemos dizer que será tudo menos aborrecido, uma vez que é uma metodologia de ensino ativa e dinâmica que o desafiará a levar o seu engenho a limites que nunca imaginou. Será capaz de melhorar as suas competências para aumentar a sua capacidade de trabalho em equipa e no contexto de uma abordagem construtivista que já existe em algo novamente. . e inovador."
    },
    "members": {
     "title": "MEMBROS",
     "button": "Ver Mais Informações",
     "area": "Área de especialização", 
     "faculty": "Faculdade", 
+    "coord": "COORDENADOR", 
+    "team": "EQUIPA UNIVERSITÁRIA FIDELITAS", 
     "modal1-i": " Engenharia de Software e Banco de Dados. ", 
     "modal1-f": " Ciências da Computação ", 
     "modal2-i": " Processamento de Materiais e Design Mecânico ", 

@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Inicio", 
         "about": "Acerca de ICoLearn", 
+        "partners": "Socios",
         "results": "Resultados",
         "news": "Novedades",
         "contact": "Contactanos"
@@ -12,7 +13,23 @@
     }, 
    "accordion": {
     "information": "INFORMACION GENERAL", 
-    "text-i": "Año de fundación: 2002 Número de estudiantes: 2400 Áreas temáticas: Ingeniería Mercadeo Ecología Área social Comunicación Jurídica Nombre de las facultades: Facultad de Ciencias Empresariales Facultad de Ecología y Medio Ambiente Facultad de Ciencias Sociales Facultad de Ciencias de la Comunicación Facultad de Ciencias Jurídicas Facultad de Ingeniería Número de campus universitarios: 10 campus a nivel nacional el país"
+    "t1": "Año de establecimiento: 2002.",
+    "t2": "Número de estudiantes: 2400.",
+    "t3": "Áreas temáticas:",
+    "t4": "Ingeniería",
+    "t5": "Mercadotecnia",
+    "t6": "Ecología",
+    "t7": "Área Social",
+    "t8": "Comunicación",
+    "t9": "Legal.",
+    "t10": "Nombre de la universidad:",
+    "t11": "Facultad de Ciencias Empresariales",
+    "t12": "Facultad de Ecología y Medio Ambiente",
+    "t13": "Facultad de Ciencias Sociales",
+    "t14": "Facultad de Ciencias de la Comunicación",
+    "t15": "Facultad de Ciencias Jurídicas",
+    "t16": "Facultad de Ingeniería.",
+    "t17": "Número de campus universitarios: 10 campus en todo el país."
    },
    "visit": {
     "title": "VISITANOS!"
@@ -26,6 +43,8 @@
     "button": "Ver Mas Informacion",
     "area": "Área de especialización", 
     "faculty": "Facultad", 
+    "team":"EQUIPO DE LA UNIVERSIDAD METROPOLITANA DE HONDURAS", 
+    "coord":"COORDINADOR",
     "modal1-i": " Telecomunicaciones/Gestión Empresarial/Educación Superior",
     "modal1-f": "Ingeniería/Ciencias Empresariales",
     "modal2-i": "Control de Calidad Total/Educación Superior",
@@ -39,8 +58,10 @@
     "modal6-f": "Ciencias Empresariales",
     "modal7-i": "Educación Superior con orientación a Docencia Universitaria y Diseño Curricular ",
     "modal7-f": " Ciencias sociales ",
-    "modal8-i": " Construcción/Gestión de riesgos/Educación superior ",
-    "modal9-f": " Ingeniería"
+    "modal8-i": "Gestión empresarial/Educación superior",
+    "modal8-f": "Ingeniería/Ciencias empresariales",
+    "modal9-i": "Construcción/Gestión de riesgos/Educación superior",
+    "modal9-f": "Ingeniería"
    }, 
     "footer": {
         "disclaimer": "Aviso Legal: Financiado por la Unión Europea. Sin embargo, las opiniones y puntos de vista expresados ​​son únicamente los del autor y no reflejan necesariamente los de la Unión Europea. Ni la Unión Europea ni la autoridad que otorga la subvención pueden ser considerados responsables de ellos."

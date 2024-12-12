@@ -4,6 +4,7 @@
         "home": "Home", 
         "about": "Chi siamo ICoLearn", 
         "results": "Risultati",
+        "partners": "Partners",
         "news": "Novità",
         "contact": "Contattaci"
     },
@@ -12,7 +13,12 @@
     }, 
    "accordion": {
     "information": "INFORMAZIONI GENERALI", 
-    "text-i": "Anno di fondazione: 1973 Numero di studenti: Circa 21.000 studenti Aree tematiche: Istituzione di istruzione superiore interdisciplinare, che favorisce l'innovazione e l'esplorazione di aree emergenti di ricerca Numero di campus universitari: 2 Campus (a Braga e Guimarães, Portogallo) 12 Facoltà/Istituti (Loghi nell'immagine sottostante)"
+    "t1": "Anno di fondazione: 1973",
+    "t2": "Numero di studenti: circa 21.000 studenti",
+    "t3": "Aree disciplinari: Istituto di istruzione superiore interdisciplinare, che favorisce l'innovazione e l'esplorazione di aree di ricerca emergenti",
+    "t4": "Numero di campus universitari:",
+    "t5": "2 campus (a Braga e Guimarães, Portogallo)",
+    "t6": "12 scuole/istituti"
    },
    "visit": {
     "title": "VISITACI!"
@@ -24,6 +30,8 @@
    "members": {
     "title": "Membri",
     "button": "Visualizza altre informazioni",
+    "coord":"COORDINATORE",
+    "team": "SQUADRA DELL'UNIVERSITÀ DEL MINHO",
     "area": "Area di specializzazione", 
     "faculty": "Facoltà",
     "modal1-i": "Goran D. Putnik ha conseguito la laurea e il master in ingegneria della produzione presso la Facoltà di Ingegneria Meccanica dell'Università di Belgrado e il dottorato in ingegneria meccanica all'Università di Belgrado nel 1993. Nel 1993 è entrato a far parte dell'Università del Minho (Portogallo), dove attualmente è professore ordinario nel Dipartimento di Ingegneria della Produzione e Sistemi della Facoltà di Ingegneria. I suoi interessi di ricerca e insegnamento si concentrano sulle aree dei sistemi di produzione, linguaggi e applicazioni della teoria degli automi e della teoria formale dei sistemi di produzione, ingegneria concorrente e collaborativa, imprese agili e virtuali, sistemi di produzione complessi basati su reti, applicazioni di intelligenza artificiale e machine learning e gestione del caos e della complessità nelle organizzazioni. È autore di 18 libri, più di 400 articoli su riviste e conferenze, coordinatore di numerosi progetti internazionali e membro dei consigli editoriali di 15 riviste scientifiche internazionali. Il professor Putnik è membro dell'Accademia Internazionale di Ingegneria della Produzione (CIRP) di Parigi. (Link ORCID: https://orcid.org/0000-0003-3378-6866).",

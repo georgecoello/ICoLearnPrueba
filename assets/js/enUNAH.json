@@ -13,7 +13,11 @@
     }, 
    "accordion": {
     "information": "GENERAL INFORMATION", 
-    "text-i": "Founded in 1847 It is the largest public university of Honduras It has approximately 65,000 students, over 4,000 academics and 2,500 administratives The main campus (red circle) is in Tegucigalpa (the capital of Honduras) and there are 9 regional Campuses There are 5 virtual centres (Telecentros) and an additional 8 long distance centres (CRAED)"
+    "t1": "Fundada em 1847",
+    "t2": "É a maior universidade pública das Honduras",
+    "t3": "Tem aproximadamente 65.000 alunos, sendo mais de 4.000 académicos e 2.500 administrativos",
+    "t4": "O campus fica em Tegucigalpa (capital das Honduras) e existem 9 campus regionais",
+    "t5": "Existem 5 centros virtuais (Telecentros) e 8 centros adicionais de longa distância (CRAED)"
    },
    "visit": {
     "title": "VISIT US!"

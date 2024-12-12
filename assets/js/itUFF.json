@@ -2,7 +2,8 @@
     "nav": {
         "title": "ICoLearn", 
         "home": "Home", 
-        "about": "Chi siamo ICoLearn", 
+        "about": "Chi siamo ICoLearn",
+        "partners": "Partner", 
         "results": "Risultati", 
         "news": "Novità", 
         "contact": "Contattaci"
@@ -12,7 +13,15 @@
     }, 
    "accordion": {
     "information": "Informazioni Generali", 
-    "text-i": "Anno di fondazione: Fondato nel 1960 come università federale mediante la fusione di diverse istituzioni di istruzione superiore di Niterói e aree circostanti. Posizione: Il campus principale si trova a Niterói, con unità accademiche in altre città dello stato di Rio de Janeiro, come Volta Redonda, Campos dos Goytacazes e Nova Friburgo. Classifica: È una delle principali università pubbliche del Brasile, riconosciuta per la sua eccellenza accademica e progetti di ricerca. Aree accademiche: Scienze Esatte e Naturali, Scienze Umanistiche, Ingegneria, Scienze Sociali ed Economiche, Scienze della Salute."
+    "t1": "Anno di Fondazione: fondato nel 1960 come università federale attraverso la fusione di diversi istituti di istruzione superiore a Niterói e nelle aree vicine.",
+    "t2": "Ubicazione: il campus principale è a Niterói, con unità accademiche in altre città dello stato di Rio de Janeiro, come Volta Redonda, Campos dos Goytacazes e Nova Friburgo.",
+    "t3": "Classificazione: è una delle principali università pubbliche in Brasile, riconosciuta per i suoi progetti di eccellenza e ricerca accademica.",
+    "t4": "Aree accademiche:",
+    "t5": "Ciências Exatas e Naturais",
+    "t6": "Humanities",
+    "t7": "Ingegneria",
+    "t8": "Ciências Sociais e Econômicas",
+    "t9": "Ciências da Saúde"
    },
    "visit": {
     "title": "VISITACI!"
@@ -20,6 +29,8 @@
    "members": {
     "title": "MEMBRI",
     "button": "Vedi maggiori informazioni",
+    "coord": "COORDINATORE",
+    "team": "SQUADRA UNIVERSITARIA FEDERALE FLUMINENSE", 
     "area": "Area di specializzazione", 
     "faculty": "Facoltà", 
     "modal1-i": "Ingegneria e Ingegneria dei Trasporti", 

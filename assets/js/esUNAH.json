@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Inicio", 
         "about": "ACERCA DE ICoLearn", 
+        "partners": "Socios",
         "results": "Resultados",
         "news": "Novedades",
         "contact": "Contactanos"
@@ -12,7 +13,11 @@
     }, 
    "accordion": {
     "information": "INFORMACION GENERAL", 
-    "text-i": "Fundada en 1847 Es la universidad pública más grande de Honduras Tiene aproximadamente 65,000 estudiantes, más de 4,000 académicos y 2,500 administrativos El campus principal (círculo rojo) está en Tegucigalpa (la capital de Honduras) y hay 9 Campus regionales Hay 5 centros virtuales (Telecentros) y 8 centros adicionales de larga distancia (CRAED)""
+    "t1": "Fundada en 1847", 
+    "t2": "Es la universidad pública más grande de Honduras", 
+    "t3": "Tiene aproximadamente 65,000 estudiantes, más de 4,000 académicos y 2,500 administrativos", 
+    "t4": "El campus  está en Tegucigalpa (la capital de Honduras) y hay 9 Campus regionales", 
+    "t5": "Hay 5 centros virtuales (Telecentros) y 8 centros adicionales de larga distancia (CRAED)"
    },
    "visit": {
     "title": "VISITANOS!"
@@ -21,7 +26,8 @@
     "title": "MIEMBROS",
     "button": "Ver Mas Informacion",
     "area": "Área de especialización", 
-    "moreInfo": "Otra información académica relevante sobre usted",
+    "team": "EQUIPO DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS",
+    "faculty": "Otra información académica relevante sobre usted",
     "coord": "COORDINADOR",
     "subcoor": "SUBCOORDINADOR",
     "modal1-i": "Deslizamientos inducidos por lluvia, estabilidad de taludes, análisis de peligros y riesgos",

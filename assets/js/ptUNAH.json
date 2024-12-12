@@ -4,6 +4,7 @@
         "home": "Início", 
         "about": "SOBRE O ICoLearn", 
         "results": "Resultados",
+        "partners":"Parseiros",
         "news": "Novidades",
         "contact": "Contate-nos"
     },
@@ -12,7 +13,11 @@
     }, 
    "accordion": {
         "information": "INFORMAÇÃO GERAL", 
-        "text-i": "Fundada em 1847. É a maior universidade pública de Honduras. Tem aproximadamente 65.000 estudantes, mais de 4.000 acadêmicos e 2.500 funcionários administrativos. O campus principal (círculo vermelho) está em Tegucigalpa (a capital de Honduras) e há 9 campus regionais. Existem 5 centros virtuais (Telecentros) e 8 centros adicionais de educação a distância (CRAED)."
+        "t1": "Fundada em 1847",
+    "t2": "É a maior universidade pública das Honduras",
+    "t3": "Tem aproximadamente 65.000 alunos, sendo mais de 4.000 académicos e 2.500 administrativos",
+    "t4": "O campus está localizado em Tegucigalpa (capital das Honduras) e possui 9 campus regionais",
+    "t5": "Existem 5 centros virtuais (Telecentro) e 8 centros adicionais de longa distância (CRAED)"
    },
    "visit": {
         "title": "VISITE-NOS!"
@@ -21,10 +26,11 @@
         "title": "MEMBROS",
         "button": "Ver Mais Informações",
         "area": "Área de especialização", 
-        "moreInfo": "Outras informações acadêmicas relevantes sobre você",
+        "faculty": "Outras informações acadêmicas relevantes sobre você",
         "coord": "COORDENADOR",
         "subcoor": "SUBCOORDENADOR",
         "modal1-i": "Deslizamentos induzidos pela chuva, estabilidade de taludes, análise de perigos e riscos",
+        "team":"EQUIPE DA UNIVERSIDADE NACIONAL AUTÔNOMA DE HONDURAS",
         "modal1-f": "Engenheiro Civil (Universidade Nacional Autônoma de Honduras), Doutor em Engenharia Civil e Estrutural (Universidade de Uppsala), Certificação em Risco Geológico e Climático (Universidade de Genebra), Mestrado em Geotecnia e Engenharia de Fundações (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
         "modal2-i": "Engenharia Civil, Materiais de Construção, Pavimentos, Gestão de Riscos, Meio Ambiente, Gestão de Projetos",
         "modal2-f": "Tenho um Mestrado em Mudanças Climáticas e Gestão do Território e outro em Gestão de Projetos. Chefe da Unidade de Gestão de Pesquisa Científica em Engenharia Civil, Membro do Grupo de Pesquisa em Gestão de Riscos e Adaptação às Mudanças Climáticas, Técnico em Ensaios de Campo de Concreto ACI – Técnico em Ensaios de Agregados Grau I e ACI - Nível 1, Professor Titular da Faculdade de Engenharia Civil, Materiais de Construção, Pavimentos, Área de Gestão. Participei de projetos de Cooperação Internacional.",

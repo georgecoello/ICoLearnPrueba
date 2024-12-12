@@ -32,7 +32,8 @@
    },
    "members": {
         "title": "MEMBROS",
-        "coord": "Coordenador",
+        "coord": "COORDENADOR",
+        "team": "EQUIPA DA UNIVERSIDADE DA COSTA RICA", 
         "button": "Ver Mais Informações",
         "area": "Área de especialização", 
         "faculty": "Faculdade", 

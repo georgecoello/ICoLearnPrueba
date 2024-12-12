@@ -13,7 +13,15 @@
     }, 
    "accordion": {
     "information": "GENERAL INFORMATION", 
-    "text-i": "Foundation year: Established in 1960 as a federal university by merging several higher education institutions in Niterói and nearby areas. Location: The main campus is in Niterói, with academic units in other cities across the state of Rio de Janeiro, such as Volta Redonda, Campos dos Goytacazes, and Nova Friburgo. Ranking: It is one of Brazil's leading public universities, recognized for its academic excellence and research projects. Academic Areas Exact and Natural Sciences Humanities Engineering Social and Economic Sciences Health Sciences"
+    "t1": "Year of Foundation: Founded in 1960 as a federal university through the merger of several higher education institutions in Niterói and nearby areas.",
+    "t2": "Location: The main campus is in Niterói, with academic units in other cities in the state of Rio de Janeiro, such as Volta Redonda, Campos dos Goytacazes and Nova Friburgo.",
+    "t3": "Ranking: It is one of the main public universities in Brazil, recognized for its excellence and academic research projects.",
+    "t4": "Academic areas:",
+    "t5": "Exact and Natural Sciences",
+    "t6": "Humanities",
+    "t7": "Engineering",
+    "t8": "Social and Economic Sciences",
+    "t9": "Health Sciences"
    },
    "visit": {
     "title": "VISIT US!"

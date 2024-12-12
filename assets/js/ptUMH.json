@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Início", 
         "about": "Sobre o ICoLearn", 
+        "partners": "Parceiros",
         "results": "Resultados",
         "news": "Novidades",
         "contact": "Contate-nos"
@@ -12,17 +13,35 @@
     }, 
    "accordion": {
         "information": "INFORMAÇÃO GERAL", 
-        "text-i": "Ano de fundação: 2002. Número de estudantes: 2400. Áreas temáticas: Engenharia, Marketing, Ecologia, Área Social, Comunicação Jurídica. Nome das faculdades: Faculdade de Ciências Empresariais, Faculdade de Ecologia e Meio Ambiente, Faculdade de Ciências Sociais, Faculdade de Ciências da Comunicação, Faculdade de Ciências Jurídicas, Faculdade de Engenharia. Número de campus universitários: 10 campus em todo o país."
+        "t1": "Ano de fundação: 2002.", 
+        "t2": "Número de estudantes: 2400.", 
+        "t3": "Áreas temáticas:", 
+        "t4": "Engenharia", 
+        "t5": "Marketing", 
+        "t6": "Ecologia", 
+        "t7": "Área Social", 
+        "t8": "Comunicação", 
+        "t9": "Jurídica.", 
+        "t10": "Nome das faculdades:", 
+        "t11": "Faculdade de Ciências Empresariais", 
+        "t12": "Faculdade de Ecologia e Meio Ambiente", 
+        "t13": "Faculdade de Ciências Sociais", 
+        "t14": "Faculdade de Ciências da Comunicação", 
+        "t15": "Faculdade de Ciências Jurídicas", 
+        "t16": "Faculdade de Engenharia.", 
+        "t17": "Número de campus universitários: 10 campus em todo o país."
    },
    "visit": {
         "title": "VISITE-NOS!"
    }, 
    "relevant": {
         "title": "OUTRAS INFORMAÇÕES RELEVANTES", 
-        "info": "A Universidade Metropolitana de Honduras é uma instituição de Ensino Superior privada, sem fins lucrativos, fundada pela Fundação Universitária Metropolitana FUMH (FUMH), por meio da resolução 89-2001 publicada no Diário Oficial La Gaceta em 1º de agosto de 2001. Criada pelo acordo No. 1068-154-2002, em 18 de dezembro de 2002, pela Direção de Educação Superior de Honduras. A universidade possui 10 campus em todo o país, localizados nas principais cidades, oferece 9 cursos de graduação, 7 cursos de mestrado e 2 cursos de nível técnico profissional, com 400 funcionários, entre executivos, administrativos e docentes, e conta com uma população estudantil superior a 6000 alunos. Missão: Contribuir para o desenvolvimento social, econômico, tecnológico e político do país, por meio da formação de recursos humanos de qualidade e competitivos, capazes de transformar as estruturas sociais, econômicas e políticas. Formar gerações de profissionais com valores e atitudes positivas, de acordo com sua condição humana e as exigências éticas e morais da sociedade. Visão: Ser um centro docente de Ensino Superior que ofereça serviços educacionais de qualidade, com projeção internacional nos diferentes campos do conhecimento humano. Ser uma universidade avançada nas técnicas e metodologias relacionadas à criação e transmissão das ciências, artes e cultura, formando um sistema de aprendizagem que vincule acadêmicos às necessidades e problemas locais, nacionais e regionais, contribuindo para sua solução. Metas: * Desenvolver o ensino superior para formar profissionais em conformidade com os conceitos e exigências da globalização e da competitividade nacional e internacional. * Desenvolver uma educação científica e humanística que capacite o aluno. * Oferecer uma formação estratégica, com o objetivo de formar um profissional capaz de contribuir para o desenvolvimento dos setores sociais do país. A UMH faz parte de organismos nacionais e internacionais comprometidos com a gestão de riscos de desastres e adaptação às mudanças climáticas, como o Comitê Interinstitucional de Ciências Ambientais (CICA), uma aliança com o Serviço Nacional do Empreendedorismo e Pequenos Negócios (SENPRENDE), o Corpo de Bombeiros, a Comissão Permanente de Contingências (COPECO), entre outros. A nível internacional, a UMH é membro da Rede de Universidades das Américas e Caribe para a Redução de Riscos de Desastres (REDULAC/RRD), sendo criadora do Capítulo Honduras e presidente por 4 anos. A universidade foi premiada com o Prêmio NOE na República Dominicana pelo trabalho realizado nesse tema. A UMH também é membro da Rede de Instituições de Ensino Superior da América Latina e Caribe (RiesGIRD-LAC) e atualmente ocupa a presidência da rede."
+        "info": "A Universidade Metropolitana de Honduras é uma instituição de ensino superior privada, sem fins lucrativos, fundada pela Fundação Universidade Metropolitana FUMH (FUMH), através da resolução 89-2001 publicada no jornal oficial La Gaceta em 1 de agosto de 2001, criada pelo acordo nº 1068. -154-2002 de 18 de Dezembro de dois mil e dois, Da Direcção do Ensino Superior das Honduras. <br>  Possui 10 campi em todo o país nas principais cidades do país, oferece 9 cursos de licenciatura, 7 cursos de mestrado e dois cursos de nível técnico profissional, conta com 400 funcionários entre executivos, administradores e professores, e conta com uma população estudantil de mais de 6.000 alunos. <br><br>  Missão <br>  Contribuir para o desenvolvimento social, económico, tecnológico e político do país, através da formação de recursos humanos de qualidade e competitivos, capazes de transformar as estruturas sociais, económicas e políticas. Formar gerações de profissionais com valores e atitudes positivas de acordo com a sua condição humana e as exigências éticas e morais da sociedade. <br><br>  Visão <br>  Ser um centro de ensino do Ensino Superior que presta serviços educativos de qualidade, com projeção internacional nas diversas áreas do conhecimento humano. Ser uma universidade avançada nas técnicas e metodologias relacionadas com a criação e transmissão da ciência, das artes e da cultura, formando um sistema de aprendizagem que liga os académicos às necessidades e problemas locais, nacionais e regionais, de forma a contribuir para a sua solução . <br><br>  Metas <br>  * Desenvolver o ensino superior para formar profissionais enquadrados nos conceitos e exigências da globalização e da competitividade nacional e internacional. <br>  * Desenvolver uma educação científica e humanística que capacite o aluno. <br>  * Proporcionar formação estratégica com o objetivo de formar um profissional capaz de contribuir para o desenvolvimento dos setores sociais do país. <br><br>  A UMH faz parte de organizações nacionais e internacionais empenhadas na gestão do risco de catástrofes e na adaptação às alterações climáticas, por exemplo, a nível nacional, o Comité Interinstitucional de Ciências Ambientais (CICA), uma aliança a nível governamental hondurenho com o Serviço Nacional de Empreendedorismo e Pequenos Negócios (SENPRENDE), com diversas instituições da sociedade civil como o Corpo de Bombeiros Benemérito, Comissão Permanente de Contingência (COPECO), Associação para uma Sociedade Mais Justa (ASJ), o Conselho Hondurenho de Empresa Privada (COHEP ), o Desenvolvimento Empresarial Centros (CDE) e outros. A nível internacional, a UMH é membro da Rede Universitária das Américas e Caraíbas para a Redução do Risco de Desastres (REDULAC/DRR); ser criadores do Capítulo das Honduras, exercendo a presidência durante 4 anos, galardoado com o Prémio NOE na República Dominicana em reconhecimento do trabalho desenvolvido nesta temática; A Universidade é membro da Rede de Instituições de Ensino Superior da América Latina e do Caribe (RiesGIRD-LAC) e ocupa atualmente a presidência da Rede. Da mesma forma, a UMH é membro da Organização Universitária Interamericana (OUI) que procura fortalecer os espaços de cooperação educativa. a um nível superior em coordenação com os seus membros e outros aliados estratégicos na procura de uma oferta diversificada, contribuição para os ODS e excelência organizacional.  A UMH é membro e liderou a Associação de  Universidades Privadas das Honduras (ANUPRIH) e membros da Associação de Universidades Privadas da América Central (AUPRICA)."
    }, 
    "members": {
         "title": "MEMBROS",
+        "team":"EQUIPA DA UNIVERSIDADE METROPOLITANA DE HONDURAS",
+        "coord": "COORDENADOR",
         "button": "Ver Mais Informações",
         "area": "Área de especialização", 
         "faculty": "Faculdade", 
@@ -39,7 +58,9 @@
         "modal6-f": "Ciências Empresariais",
         "modal7-i": "Ensino Superior com orientação para Docência Universitária e Design Curricular",
         "modal7-f": "Ciências Sociais",
-        "modal8-i": "Construção/Gestão de Riscos/Ensino Superior",
+        "modal8-i": "Gestão de Empresas/Ensino Superior",
+        "modal8-f": "Engenharia/Ciências Empresariais",
+        "modal9-i": "Construção/Gestão de Riscos/Ensino Superior",
         "modal9-f": "Engenharia"
    }, 
     "footer": {

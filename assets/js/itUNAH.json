@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Home", 
         "about": "CHI SIAMO ICoLearn", 
+        "partners": "Partner",
         "results": "Risultati", 
         "news": "Novità", 
         "contact": "Contattaci"
@@ -12,7 +13,11 @@
     }, 
    "accordion": {
     "information": "INFORMAZIONI GENERALI", 
-    "text-i": "Fondata nel 1847 È la più grande università pubblica dell'Honduras Ha circa 65.000 studenti, oltre 4.000 accademici e 2.500 amministrativi Il campus principale (cerchio rosso) si trova a Tegucigalpa (la capitale dell'Honduras) e ci sono 9 campus regionali Ci sono 5 centri virtuali (Telecentros) e 8 centri aggiuntivi di formazione a distanza (CRAED)"
+    "t1": "Fondata nel 1847",
+    "t2": "È la più grande università pubblica dell'Honduras",
+    "t3": "Conta circa 65.000 studenti, più di 4.000 accademici e 2.500 amministrativi",
+    "t4": "Il campus si trova a Tegucigalpa (la capitale dell'Honduras) e ci sono 9 campus regionali",
+    "t5": "Ci sono 5 centri virtuali (Telecenter) e 8 ulteriori centri a lunga distanza (CRAED)"
    },
    "visit": {
     "title": "VISITACI!"
@@ -21,10 +26,11 @@
     "title": "MEMBRI",
     "button": "Vedi maggiori informazioni",
     "area": "Area di specializzazione", 
-    "moreInfo": "Altre informazioni accademiche rilevanti su di te",
+    "faculty": "Altre informazioni accademiche rilevanti su di te",
     "coord": "COORDINATORE",
     "subcoor": "SOTTOCOORDINATORE",
     "modal1-i": "Frane indotte dalla pioggia, stabilità delle scarpate, analisi dei pericoli e dei rischi",
+    "team": "SQUADRA DELL'UNIVERSITÀ NAZIONALE AUTONOMA DELL'HONDURAS",
     "modal1-f": "Ingegnere Civile (Università Nazionale Autonoma dell'Honduras), Dottore in Ingegneria Civile e Strutturale (Università di Uppsala), Certificazione in Rischio Geologico e Climatico (Università di Ginevra), Master in Geotecnica e Ingegneria delle Fondazioni (EADIC). ORCID: https://orcid.org/0000-0003-4362-4510 ",
     "modal2-i": "Ingegneria Civile, Materiali da Costruzione, Pavimentazioni, Gestione dei Rischi, Ambiente, Gestione dei Progetti",
     "modal2-f": "Ho un Master in Cambiamenti Climatici e Gestione del Territorio e un altro in Gestione dei Progetti, Responsabile dell'Unità di Gestione della Ricerca Scientifica in Ingegneria Civile, Membro del Gruppo di Ricerca in Gestione dei Rischi e Adattamento ai Cambiamenti Climatici, Tecnico in Prove sul Campo di Calcestruzzo ACI – Tecnico in Prove sugli Agregati Grado I e ACI - Livello 1, Professore Ordinario della Facoltà di Ingegneria in Ingegneria Civile, Materiali da Costruzione, Pavimentazioni, Area di Gestione. Ho partecipato a progetti di Cooperazione Internazionale.",

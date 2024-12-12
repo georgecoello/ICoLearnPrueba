@@ -3,6 +3,7 @@
         "title": "ICoLearn", 
         "home": "Inicio", 
         "about": "Acerca de ICoLearn", 
+        "partners": "Socios",
         "results": "Resultados",
         "news": "Novedades",
         "contact": "Contactanos"
@@ -11,8 +12,13 @@
         "text": "ICoLearn - Caja de herramientas de metodologías de aprendizaje colaborativo y basado en Internet para la transformación digital y el crecimiento sostenible | Proyecto N°: 101127224"
     }, 
    "accordion": {
-    "information": "INFORMACION GENERAL", 
-    "text-i": "Año de fundación: 1973 Número de estudiantes: Alrededor de 21.000 estudiantes Áreas temáticas: Institución de educación superior interdisciplinaria, que favorece la innovación y la exploración de áreas de investigación emergentes Número de campus universitarios: 2 Campus (en Braga y Guimarães, Portugal) 12 Escuelas/Institutos (Logotipos en la siguiente imagen)"
+        "information": "INFORMACIÓN GENERAL",
+        "t1": "Año de fundación: 1973",
+        "t2": "Número de estudiantes: Alrededor de 21.000 estudiantes",
+        "t3": "Áreas temáticas: Institución de educación superior interdisciplinaria, que favorece la innovación y la exploración de áreas de investigación emergentes",
+        "t4": "Número de campus universitarios:",
+        "t5": "2 campus (en Braga y Guimarães, Portugal)",
+        "t6": "12 escuelas/institutos"
    },
    "visit": {
     "title": "VISITANOS!"
@@ -22,7 +28,9 @@
     "info":  "La Universidad de Minho (UMinho) fue fundada en 1973 y es hoy una de las instituciones de educación superior más importantes y prestigiosas de Portugal. Es reconocida por la competencia y calidad de su facultad y por el nivel de excelencia en investigación, así como por la amplia gama de cursos de pregrado y posgrado que ofrece y por el notable grado de interacción con otras instituciones y con la sociedad en general. Ubicada en el norte de Portugal, la UMinho tiene un campus en la ciudad de Braga y otros dos en la ciudad de Guimarães, que albergan a una población estudiantil de alrededor de 21.000 estudiantes, de los cuales 2.400 son estudiantes extranjeros y 1.900 son estudiantes de doctorado. La Universidad cuenta con aproximadamente 1.750 profesores e investigadores y 740 personal técnico, administrativo y de gestión. La estructura organizativa de la Universidad es flexible y propicia a la innovación y la interdisciplinariedad, favoreciendo la exploración de áreas de investigación emergentes. Las 12 Escuelas/Institutos son una referencia por su calidad académica y científica a nivel nacional e internacional. Los proyectos de formación e investigación de la UMinho han obtenido un fuerte reconocimiento internacional y están respaldados por una estrecha interacción con muchos otros centros de investigación en todo el mundo. La UMinho es una universidad de investigación, comprometida con la valorización del conocimiento y también centrada en el entorno socioeconómico, con muchas asociaciones exitosas. El Ranking de Shanghai 2023 clasificó a la UMinho entre las 500 mejores universidades del mundo por octavo año consecutivo y la UMinho es la institución portuguesa mejor clasificada en el 'UI GreenMetric World University Rankings 2023'. Además, la edición 2023 de U-Multirank le dio a la UMinho la puntuación más alta en 12 indicadores, destacando su desempeño relevante en las dimensiones de enseñanza y aprendizaje, investigación, transferencia de conocimiento, orientación internacional y compromiso regional. La UMinho ofrece 59 títulos de primer ciclo, 2 másteres integrados, 125 cursos de máster, de los cuales 4 son másteres europeos y 59 programas de doctorado (varios programas internacionales que involucran a instituciones prestigiosas como MIT y CMU, EE. UU.). La internacionalización es una prioridad para la UMinho y, como tal, constituye un elemento transversal fundamental de su Misión y Plan Estratégico. Habiendo reconocido que la internacionalización es un elemento clave para obtener y mantener un alto nivel de calidad en sus proyectos de educación, investigación e interacción con la sociedad, y para promover la Institución en un mundo académico cada vez más competitivo, la UMinho ha estado realizando un esfuerzo considerable para consolidar su dimensión internacional y contar con un volumen significativo de trabajo internacional en muchas categorías que se refuerzan y complementan entre sí, fomentando la cohesión institucional, la sostenibilidad y apuntando a lograr un mayor impacto. "
    },
    "members": {
-    "title": "Miembros",
+    "title": "MIEMBROS",
+    "team": "EQUIPO DE UNIVERSIDADE DO MINHO",
+    "coord": "COORDINADOR",
     "button": "Ver más información",
     "area": "Área de especialización", 
     "faculty": "Facultad",

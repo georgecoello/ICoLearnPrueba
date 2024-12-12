@@ -4,4 +4,4 @@ Acá se subirán los cambios previos al repositorio oficial
 
 observaciones
 ---
-ver UCR
+cambiar los modales de UNAH
