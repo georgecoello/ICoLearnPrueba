@@ -527,14 +527,14 @@
 .logo {
   text-align: center;
   height: 400px;
-  width: 40%;
+  width: 35%;
   display: flex;
   justify-content: center;
   align-items: center;
   z-index: 2;
   background-color: rgba(237, 245, 245, 0.5);
   padding-left: 25px;
-  padding-top: 5%;
+  padding-top: 5vh;
   overflow: hidden; /* Esto evitará que la imagen se desborde del div */
 }
 
@@ -563,5 +563,6 @@
     width: 100%;
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 12vh;
   }
 }
