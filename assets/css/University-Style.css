@@ -534,6 +534,7 @@
   z-index: 2;
   background-color: rgba(237, 245, 245, 0.5);
   padding-left: 25px;
+  padding-top: 5%;
   overflow: hidden; /* Esto evitará que la imagen se desborde del div */
 }
 
